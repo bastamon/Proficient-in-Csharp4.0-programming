@@ -1,0 +1,1649 @@
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\bin\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\bin\Debug\RepastErpFront.XML
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\bin\Debug\RepastErpFront.XML
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\bin\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\bin\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\bin\Debug\Common.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\bin\Debug\RepastErpFront.XML
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\bin\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+E:\新建文件夹 (2)\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+E:\新建文件夹 (2)\RepastErpFront\bin\Debug\RepastErpFront.XML
+E:\新建文件夹 (2)\RepastErpFront\bin\Debug\RepastErpFront.exe
+E:\新建文件夹 (2)\RepastErpFront\bin\Debug\RepastErpFront.pdb
+E:\新建文件夹 (2)\RepastErpFront\bin\Debug\Common.dll
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\bin\Debug\RepastErpFront.XML
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\bin\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\bin\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\bin\Debug\Common.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (5)\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+E:\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\bin\Debug\RepastErpFront.XML
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\bin\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\bin\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\bin\Debug\Common.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (9)\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (3)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+E:\新建文件夹\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+E:\新建文件夹\RepastErpFront\bin\Debug\RepastErpFront.XML
+E:\新建文件夹\RepastErpFront\bin\Debug\RepastErpFront.pdb
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\新建文件夹\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\bin\Debug\RepastErpFront.XML
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\bin\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\bin\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (4)\RepastErpFront\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\前台\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+C:\Users\Administrator\Desktop\前台\RepastErpFront\bin\Debug\RepastErpFront.XML
+C:\Users\Administrator\Desktop\前台\RepastErpFront\bin\Debug\RepastErpFront.pdb
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\前台\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\bin\Debug\RepastErpFront.XML
+C:\Documents and Settings\Administrator\桌面\erp3\RepastErpFront\bin\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\bin\Debug\RepastErpFront.XML
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\bin\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\bin\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\bin\Debug\Common.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (12)\新建文件夹 (11)\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (12)\新建文件夹 (11)\RepastErpFront\bin\Debug\RepastErpFront.XML
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (12)\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (12)\新建文件夹 (11)\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\bin\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\bin\Debug\RepastErpFront.XML
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\bin\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\bin\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\erp7\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\bin\Debug\RepastErpFront.XML
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\bin\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\bin\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\bin\Debug\Common.dll
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\最新快餐系统\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\bin\Debug\RepastErpFront.XML
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\bin\Debug\RepastErpFront.exe
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\bin\Debug\RepastErpFront.pdb
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\前台ERP\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\bin\Debug\RepastErpFront.XML
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\bin\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\bin\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ChangePassword.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+D:\erp6\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+D:\erp6\RepastErpFront\bin\Debug\RepastErpFront.XML
+D:\erp6\RepastErpFront\bin\Debug\RepastErpFront.exe
+D:\erp6\RepastErpFront\bin\Debug\RepastErpFront.pdb
+D:\erp6\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ChangePassword.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+D:\erp6\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\erp6\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+D:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+E:\erp6\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+E:\erp6\RepastErpFront\bin\Debug\RepastErpFront.XML
+E:\erp6\RepastErpFront\bin\Debug\RepastErpFront.exe
+E:\erp6\RepastErpFront\bin\Debug\RepastErpFront.pdb
+E:\erp6\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ChangePassword.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+E:\erp6\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\erp6\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+E:\erp6\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\bin\Debug\RepastErpFront.XML
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\bin\Debug\RepastErpFront.exe
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\bin\Debug\RepastErpFront.pdb
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\bin\Debug\Common.dll
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\bin\Debug\spc.dll
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ChangePassword.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\pos\新建文件夹 (2)\erp\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\bin\Debug\RepastErpFront.XML
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\bin\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\bin\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ChangePassword.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\bin\Debug\RepastErpFront.XML
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\bin\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\bin\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\bin\Debug\Common.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\bin\Debug\spc.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ChangePassword.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+E:\快餐系统\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+E:\快餐系统\RepastErpFront\bin\Debug\RepastErpFront.XML
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+E:\快餐系统\RepastErpFront\bin\Debug\RepastErpFront.exe
+E:\快餐系统\RepastErpFront\bin\Debug\RepastErpFront.pdb
+E:\快餐系统\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ChangePassword.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+E:\快餐系统\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\快餐系统\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\快餐系统1\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+E:\快餐系统1\RepastErpFront\bin\Debug\RepastErpFront.XML
+E:\快餐系统1\RepastErpFront\bin\Debug\RepastErpFront.exe
+E:\快餐系统1\RepastErpFront\bin\Debug\RepastErpFront.pdb
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ChangePassword.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+E:\快餐系统1\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+E:\erp3\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+E:\erp3\RepastErpFront\bin\Debug\RepastErpFront.XML
+E:\erp3\RepastErpFront\bin\Debug\RepastErpFront.exe
+E:\erp3\RepastErpFront\bin\Debug\RepastErpFront.pdb
+E:\erp3\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.Test.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ChangePassword.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ProgressForm.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+E:\erp3\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\erp3\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+E:\erp3\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\erp8.2\Code\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ChangePassword.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ProgressForm.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\erp8.2\Code\RepastErpFront\bin\Debug\RepastErpFront.XML
+E:\erp8.2\Code\RepastErpFront\bin\Debug\RepastErpFront.exe
+E:\erp8.2\Code\RepastErpFront\bin\Debug\RepastErpFront.pdb
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+E:\erp8.2\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+E:\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+E:\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.XML
+E:\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.exe
+E:\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.pdb
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ChangePassword.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ProgressForm.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+E:\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\sa\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\sa\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.XML
+C:\Documents and Settings\Administrator\桌面\sa\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\sa\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.XML
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ChangePassword.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ProgressForm.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.XML
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ChangePassword.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ProgressForm.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ChangePassword.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ProgressForm.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.exe
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.pdb
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.XML
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.XML
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.exe
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.pdb
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ChangePassword.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ProgressForm.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\快餐前台Pos系统（9.4）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.XML
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.exe
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\bin\Debug\RepastErpFront.pdb
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ChangePassword.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ProgressForm.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\bin\Debug\RepastErpFront.XML
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\bin\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\bin\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ChangePassword.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ProgressForm.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\快餐系统2012年9月10日\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\bin\Debug\RepastErpFront.XML
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\bin\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\bin\Debug\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ChangePassword.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ProgressForm.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\bin\Debug\RepastErpFront.exe
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\bin\Debug\RepastErpFront.pdb
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Beican.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelProd.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.BtnPanelKind.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Cashier_Tur.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckChit.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckOut.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CheckSale0.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.CKPanel.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Combination.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.FunctionPanel.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.GoodsNumber.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.LargeBills.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Memo.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Number.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.OrderMenu.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.PageControl.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_rounds_inquire.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pos_Tur.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Pro_NO.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ReturnOfGoods.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Roll.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.Shop_Tur.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.ShowInfo.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.SinglePageControl.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Controls.TiDan.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.Properties.Resources.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ChangePassword.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckSale.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CombinationForm.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.CheckForm.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.FunctionSet.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.KeyBoard_Form.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Login.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.MainForm.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.NumPanel.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Offline.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.Online.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ProgressForm.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.ReturnGoods1.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.SetPara.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.View.EnterTainLogin.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\bin\Debug\RepastErpFront.XML
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\bin\Debug\RepastErpFront.exe.config
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.exe
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Debug\RepastErpFront.pdb

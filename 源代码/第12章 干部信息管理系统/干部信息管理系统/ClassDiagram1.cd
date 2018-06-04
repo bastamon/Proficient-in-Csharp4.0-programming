@@ -1,0 +1,849 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HBMISR.Data.AllPrint">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAABAAAAAAAAAABAAACAAAAAAAAAAAAAAABAACAA=</HashCode>
+      <FileName>Data\AllPrint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Data.DataOperation" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ieAACDZwIDEAJJSJcAAAAIRGAIRikEThBAKQVBhFFFA=</HashCode>
+      <FileName>Data\DataOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Data.MySQLiteConnection" Collapsed="true">
+    <Position X="7.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAQAIAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Data\MySQLiteConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Data.ReadIni" Collapsed="true">
+    <Position X="5.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAgAAAAAAAACAAQAAAAAAAAAEAAA=</HashCode>
+      <FileName>Data\ReadIni.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Data.UnitOperation" Collapsed="true">
+    <Position X="12.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAQAAAAACAAAAAAAABAAAAAAAAAQAAAAEAAA=</HashCode>
+      <FileName>Data\UnitOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.AnalyzeGUI.FrmAnalyze" Collapsed="true">
+    <Position X="16.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/7YoqBEoCOLoJVJ6AGiQsCA/gDUSWvVnAyyBLN6mPfY=</HashCode>
+      <FileName>GUI\AnalyzeGUI\FrmAnalyze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.AnalyzeGUI.FrmSearchForm" Collapsed="true">
+    <Position X="16.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>d0FBIGEASCJAABAAAAiAQcAKAAFIggEEiGUCAaAUABA=</HashCode>
+      <FileName>GUI\AnalyzeGUI\FrmSearchForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.MainGUI.ControlHead" Collapsed="true">
+    <Position X="16.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAKAAAAAAAACAAAACAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>GUI\MainGUI\ControlHead.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.MainGUI.ControlMain" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/29iK1c0n/KEqJCZlEqQbChnqiE6Z9nCmfedC+P337s=</HashCode>
+      <FileName>GUI\MainGUI\ControlMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.MainGUI.ControlNavigation" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBBIsAJAADAAAAAAAACAAAECAAAABAIABIACAQAAAAA=</HashCode>
+      <FileName>GUI\MainGUI\ControlNavigation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.MainGUI.ControlSearch" Collapsed="true">
+    <Position X="18" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAABiAAABQIAACAAEAKAAAAAAAABAAAAAIgAAA=</HashCode>
+      <FileName>GUI\MainGUI\ControlSearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.MainGUI.FrmMain" Collapsed="true">
+    <Position X="12.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEACAACAAAAAAAACAAAACAAAIAAAABAAAAQAIAAA=</HashCode>
+      <FileName>GUI\MainGUI\FrmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.ControlD2" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAAAAABAAGAAAAAAAECAAAACEAAAAEAogAQAAQBAEAA=</HashCode>
+      <FileName>GUI\NoteGUI\ControlD2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.ControlD3" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAQAAABAAGAAAAAAAECAAAACEAAAAAAogAQAAABAEAA=</HashCode>
+      <FileName>GUI\NoteGUI\ControlD3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.ControlD4" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SCQAAABAAGAAAAAAAECAAAACAAAAAAAogAQAAIBAEAA=</HashCode>
+      <FileName>GUI\NoteGUI\ControlD4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.ControlDialog2" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>fyAQUUIAgCCIUBBLFACoAEAaBcg7wgSYcOwB5xMAkLA=</HashCode>
+      <FileName>GUI\NoteGUI\ControlDialog2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.ControlDialog3" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>fSAwUUIAoCCIUBBKFICoAEAaBcw7RhWIaKwB5xcAkLA=</HashCode>
+      <FileName>GUI\NoteGUI\ControlDialog3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.ControlDialog4" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/yAwUcIAgCCIUBBLFACgAEQaBcw7QgWqeOwB55MAkLQ=</HashCode>
+      <FileName>GUI\NoteGUI\ControlDialog4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.ControlM2" Collapsed="true">
+    <Position X="18" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAAAAABAAGAAAAAAAECAAAACEAAAAEAogAQAAQBAEAA=</HashCode>
+      <FileName>GUI\NoteGUI\ControlM2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.ControlM3" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAQAAABAAGAAAAAAAECAAAACEAAAAAAogAQAAABAEAA=</HashCode>
+      <FileName>GUI\NoteGUI\ControlM3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.ControlM4" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SCQAAABAAGAAAAAAAECAAAACAAAAAAAogAQAAIBAEAA=</HashCode>
+      <FileName>GUI\NoteGUI\ControlM4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.ControlMeeting2" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>fyAwUUIAgCCIQBBLFACgAEAaB8g7RgSYaOwB5xMAkLA=</HashCode>
+      <FileName>GUI\NoteGUI\ControlMeeting2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.ControlMeeting3" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/yAwUUIAoCCIQBBbFACoAEAaB8w7RgSIaOwB5xMAkLA=</HashCode>
+      <FileName>GUI\NoteGUI\ControlMeeting3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.ControlMeeting4" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/yAwUUIAgCCIUBBLFACgAEAaBcw7QgWoaOwB55MAkLQ=</HashCode>
+      <FileName>GUI\NoteGUI\ControlMeeting4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.ControlOF" Collapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACChAAACQAAAAAABCAAAADAAQGWAAAAAAAARAAGgA=</HashCode>
+      <FileName>GUI\NoteGUI\ControlOF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.ControlOverallFvaluation" Collapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAEA0AjkSCIMBTYECCEAADCIpVIQECIECAQIQGAUoI=</HashCode>
+      <FileName>GUI\NoteGUI\ControlOverallFvaluation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.FrmAllPeople" Collapsed="true">
+    <Position X="14.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>82A0KAgCiSCIAJQiAAiwioACDACABBDCAyAAILQACQI=</HashCode>
+      <FileName>GUI\NoteGUI\FrmAllPeople.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.FrmDemocraticAssessment" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/7xRUsRKS+T5unzXcgXmUjrfqI4/FZZCNb4MT8CqQvM=</HashCode>
+      <FileName>GUI\NoteGUI\FrmDemocraticAssessment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.FrmDialogPoll2" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAIAAAAAACAAAISAEAAAAAAAAAAAAICAAA=</HashCode>
+      <FileName>GUI\NoteGUI\FrmDialogPoll2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.FrmDialogPoll3" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACIAAAAAAACAAAAGAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GUI\NoteGUI\FrmDialogPoll3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.FrmDialogPoll4" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAQACAAAAAAAACAAAAGAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>GUI\NoteGUI\FrmDialogPoll4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.FrmDSelectKind" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAgCAAABAAAACAABACAAAYAAAAAOAAAAAAAAI=</HashCode>
+      <FileName>GUI\NoteGUI\FrmDSelectKind.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.FrmInformationGathering" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/yyCiU71r/JceT+a3OO5KAneYuX+H1wCv3/Ybun1z/M=</HashCode>
+      <FileName>GUI\NoteGUI\FrmInformationGathering.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.FrmMaterial" Collapsed="true">
+    <Position X="14.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEQAASAAABAASACAAAASAAAIAAAIBEQAAAAACgA=</HashCode>
+      <FileName>GUI\NoteGUI\FrmMaterial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.FrmMeetingPoll2" Collapsed="true">
+    <Position X="16.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACCAAAAAAAACABAACAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>GUI\NoteGUI\FrmMeetingPoll2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.FrmMeetingPoll3" Collapsed="true">
+    <Position X="18" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACCAAAAAAAACABAACAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>GUI\NoteGUI\FrmMeetingPoll3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.FrmMeetingPoll4" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACCAAAAAAAACABAACAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>GUI\NoteGUI\FrmMeetingPoll4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.FrmMSelectKind" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAgCAAABAAAACAAAACAAAYAAAAAOAAAAAAAAI=</HashCode>
+      <FileName>GUI\NoteGUI\FrmMSelectKind.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.FrmMultiChoise" Collapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEABAAAACAAAACAAAYAAAAAGAAAAEAAAA=</HashCode>
+      <FileName>GUI\NoteGUI\FrmMultiChoise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.FrmNameSheet" Collapsed="true">
+    <Position X="9.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>81/wpOJIwiDFE1yT7mCIj9CTGcqJVNCkTWeEI0lAwBQ=</HashCode>
+      <FileName>GUI\NoteGUI\FrmNameSheet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.FrmOverallFvaluation" Collapsed="true">
+    <Position X="11" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgCAAAAAAAACAAQACAAAAACCIBAAAAAAAAAA=</HashCode>
+      <FileName>GUI\NoteGUI\FrmOverallFvaluation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.NoteGUI.FrmSituationRegist" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/0Sl92SxIKAOXBUEQImRjcOeVcyyQfBe1PYs5JDPX7o=</HashCode>
+      <FileName>GUI\NoteGUI\FrmSituationRegist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.OtherGUI.FrmAge" Collapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAABEAEACAGABCEAAGAgAAiAIAIEEAgACQQACAAAAI=</HashCode>
+      <FileName>GUI\OtherGUI\FrmAge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.OtherGUI.FrmChangePassWord" Collapsed="true">
+    <Position X="18" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAACAAABAAEBCABAACAAQYAAAAAGAAAAQAAAA=</HashCode>
+      <FileName>GUI\OtherGUI\FrmChangePassWord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.OtherGUI.FrmLogin" Collapsed="true">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAACgAACAAIAAAgACAAAACAAAAAkAAAAAAAAAgoAI=</HashCode>
+      <FileName>GUI\OtherGUI\FrmLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.OtherGUI.FrmModifyUnit" Collapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQAAQAQCAAABAAAACAAAACAAAQAAAIACSAgAABAAA=</HashCode>
+      <FileName>GUI\OtherGUI\FrmModifyUnit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.OtherGUI.FrmMultiChoise" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEABAAAACAAAACAAAYAAAAAGAAAAEAAAA=</HashCode>
+      <FileName>GUI\OtherGUI\FrmMultiChoise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.OtherGUI.FrmPlay" Collapsed="true">
+    <Position X="12.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAACAAAAAAAACAAAACAEAAIAAAAAAAAEAAAEA=</HashCode>
+      <FileName>GUI\OtherGUI\FrmPlay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.OtherGUI.FrmRegister" Collapsed="true">
+    <Position X="14.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAKAgABACgECCAAAGGAACgEAAACAAAAACAQA=</HashCode>
+      <FileName>GUI\OtherGUI\FrmRegister.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.OtherGUI.select" Collapsed="true">
+    <Position X="16.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAABAAAACAABACAAAYAAAAAOAAAAAAAAI=</HashCode>
+      <FileName>GUI\OtherGUI\FrmselectDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.OtherGUI.FrmSelectMeeting" Collapsed="true">
+    <Position X="18" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAABAAAACAAAACAAAYAAAAAOAAAAAAAAI=</HashCode>
+      <FileName>GUI\OtherGUI\FrmSelectMeeting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.OtherGUI.FrmSystemSet" Collapsed="true">
+    <Position X="2.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCBQICAAAKACAAAUAACBAQACAggAAACAACAEAAAAAGA=</HashCode>
+      <FileName>GUI\OtherGUI\FrmSystemSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.OtherGUI.FrmUnit" Collapsed="true">
+    <Position X="4" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAEQEAABECgUABBAQESFAAACGAgAAAMAAAAgEMADAgA=</HashCode>
+      <FileName>GUI\OtherGUI\FrmUnit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.OtherGUI.FrmUnitRegist" Collapsed="true">
+    <Position X="5.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAEABQCAgABACgECCAAAGGAACgEIAACAAAAACESA=</HashCode>
+      <FileName>GUI\OtherGUI\FrmUnitRegist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.PrintGUI.C_HBCompositeAppraise" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEAAgAAACAgABAAIACQAAACIAAAAACIAAAAAAkAAAI=</HashCode>
+      <FileName>GUI\PrintGUI\C_HBCompositeAppraise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.PrintGUI.C_HBData" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACAAAIAAAACAAAACAAAAAACBAAAEAAAAAAA=</HashCode>
+      <FileName>GUI\PrintGUI\C_HBData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.PrintGUI.C_HBMainMessage" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAiEBAAIBCQAEACAAACAACFAAAAAACABQI=</HashCode>
+      <FileName>GUI\PrintGUI\C_HBMainMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.PrintGUI.C_HBmeetANDtalkAB" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAgABBKIACQQAACAAAAAACCAAgAEACEBAY=</HashCode>
+      <FileName>GUI\PrintGUI\C_HBmeetANDtalkAB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.PrintGUI.C_HBmeetANDtalkABC" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAwCAgABBCIACQQAACAAAAAASCAAgAEAAEBAI=</HashCode>
+      <FileName>GUI\PrintGUI\C_HBmeetANDtalkABC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.PrintGUI.C_HBmeetANDtalkABCD" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAggAACAkABBCIACQQAACAAAAAACCAAiAEAAEBAI=</HashCode>
+      <FileName>GUI\PrintGUI\C_HBmeetANDtalkABCD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.PrintGUI.C_HBMessage" Collapsed="true">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAGAgEDAAIBKQAAACAAAAAQCEAAAAAAAAAAI=</HashCode>
+      <FileName>GUI\PrintGUI\C_HBMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.PrintGUI.C_HBNameList" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAgAAgCBgABAAIACRAAACAAAAAACEAAAAAAAABgI=</HashCode>
+      <FileName>GUI\PrintGUI\C_HBNameList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.PrintGUI.C_HBopinionANDappraise" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQIgAAACAgEBAQIBCQAAIDAAAAAACIAAAAAAAAAAI=</HashCode>
+      <FileName>GUI\PrintGUI\C_HBopinionANDappraise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.PrintGUI.C_HBopinionANDappraise2" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQIoAAACAgEBAAIBCQAAIDAAAAAACIAAAAAAAAAAI=</HashCode>
+      <FileName>GUI\PrintGUI\C_HBopinionANDappraise2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.GUI.PrintGUI.ControlPrint" Collapsed="true">
+    <Position X="16.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAIAQhACQgCBAUIACwQAAKAABYAwghmC1CIIBRhCA=</HashCode>
+      <FileName>GUI\PrintGUI\ControlPrint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.print_class.Class1" Collapsed="true">
+    <Position X="18" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>print_class\Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.print_class.DialogPrint" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACgAgAAgIAAABAAABAQQCAAAAABAgAAIIxAMAAECAI=</HashCode>
+      <FileName>print_class\DialogPrint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.print_class.InformationPrint" Collapsed="true">
+    <Position X="14.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAgAAAAAgEBAAIBAQQCAAAAAAAAAAAAAAABAACAI=</HashCode>
+      <FileName>print_class\InformationPrint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.print_class.MatrialPrint" Collapsed="true">
+    <Position X="2.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAABAAQCAAAAAAAAAAAAAAABAACAA=</HashCode>
+      <FileName>print_class\MatrialPrint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.print_class.MeetingPrint" Collapsed="true">
+    <Position X="5.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACgAgAAgIAAABAAABAQQCAAAAABAgAAIIxAMAAECAM=</HashCode>
+      <FileName>print_class\MeetingPrint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.print_class.NameSheetPrint" Collapsed="true">
+    <Position X="9.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAABCAQGAAAAACAAAFAAAAABAACAA=</HashCode>
+      <FileName>print_class\NameSheetPrint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.print_class.PeopleNameSheetPrint" Collapsed="true">
+    <Position X="16.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAgBAAAAgEBAAIBAQACAAAAAAAAAAAAAAABAACAI=</HashCode>
+      <FileName>print_class\PeopleNameSheetPrint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.print_class.TestItPrint" Collapsed="true">
+    <Position X="4" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAgAAAAAgEBAAIBASQCAAAAAAAAAIAAAAABAACAI=</HashCode>
+      <FileName>print_class\TestItPrint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.print_class.ViewItPrint" Collapsed="true">
+    <Position X="14.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAgBAAAAgABAAIBAQQCAAIAAAAAAIAIAAABAACAI=</HashCode>
+      <FileName>print_class\ViewItPrint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Program" Collapsed="true">
+    <Position X="2.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Properties.Resources" Collapsed="true">
+    <Position X="7.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgGAAAAAgAIAAIAEEBMABIAQQAAEgiEAAACABAAKE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Properties.Settings" Collapsed="true">
+    <Position X="18" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Insert_Serve" Collapsed="true">
+    <Position X="16.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAEAEAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>server\Insert_Serve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.AlterCid">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABAAABABAAAQAQAEAAAABAAAAAAAQAAAAE=</HashCode>
+      <FileName>Service\AlterCid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.ArraylistClass" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAgAAAAAAAAAAAABAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service\ArraylistClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.BriefRigist" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgBCQAIAAAAQBoAAEAAAQAAEAAAgBAAAIAAAAAAGwg=</HashCode>
+      <FileName>Service\BriefRigist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Class_HBCompositeAppraise" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAoD0AgBABEgAgARICIAAAKgMAASgDHJACAICQAqCg=</HashCode>
+      <FileName>Service\Class_HBCompositeAppraise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Class_HBData" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAIAAAAACAAAAAAgAAAAAAAAAQAAAAAEA=</HashCode>
+      <FileName>Service\Class_HBData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Class_HBMainMessage" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>PykCKjQJsiuVBbJBhQTiQg0gZEINoATBKJBAvSsxQLw=</HashCode>
+      <FileName>Service\Class_HBMainMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Class_HBMeetANDtalk" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAAAACAAAABAAAAAwAAEAIAABoBAAAKAQEAAA=</HashCode>
+      <FileName>Service\Class_HBMeetANDtalk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Class_HBMessage" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>7xAqKvcRuiD1v5dApcH/TP6n/lD8/w/QDPB/rf94bu8=</HashCode>
+      <FileName>Service\Class_HBMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Class_HBNameList" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>+Mz7QQj//AGA+AQAqI8DCAj/bwgIAAQAoAcAAPjwbUA=</HashCode>
+      <FileName>Service\Class_HBNameList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Class_HBopinionANDappraise" Collapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8V7qUUMaw5nmAAMZZ0AiK6NAIvKggCrSBZRs+rIUKOE=</HashCode>
+      <FileName>Service\Class_HBopinionANDappraise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.ClassFamily" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAABQgAAAEIEQAAABEAAAAwAAAIMBAACAAQAACAAAQA=</HashCode>
+      <FileName>Service\ClassFamily.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.CommonInfo">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MCyVCzAMpAINTPogjEzCKYyQVgiMhGQFw6SQhUMom4o=</HashCode>
+      <FileName>Service\CommonInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Content1" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAoAEAACABAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Service\Content.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Demand">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACAAAAAAAEAAAABAAgAAAAJAAAAAQAAAAAAABAAgA=</HashCode>
+      <FileName>Service\Demand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Dialog" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAABABAAAwAQAAMYCACBGAgAxAAgAEYAMAACgJAAAI=</HashCode>
+      <FileName>Service\Dialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Exercise" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgAAAEAAAABAAAAAAAAgAAAAAAACAAAAAAAgA=</HashCode>
+      <FileName>Service\Exercise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Family" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAABABAAAQAAAAAgAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Service\Family.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.FLanguage" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAQAAAAEQAAABEAAAAAAAAEAAAABAAAAAAAAAgA=</HashCode>
+      <FileName>Service\FLanguage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Header" Collapsed="true">
+    <Position X="7.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIABAiAAAAAABhIAAAIQAAABIAAAQSABAEAAASCQAQI=</HashCode>
+      <FileName>Service\Header.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.IContent" Collapsed="true">
+    <Position X="9.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAoAEAACABAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Service\IContent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.IdMethord" Collapsed="true">
+    <Position X="11" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAIB4AACAeAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Service\IdMethord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.InCommonInfo" Collapsed="true">
+    <Position X="12.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCAgAAgAAARBAgAEQQIAwQEAAMAACkAQAApAEAAgI=</HashCode>
+      <FileName>Service\InCommonInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Language" Collapsed="true">
+    <Position X="18" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCACAAQgABAEQAAQhEAAAIAAAAEAAAABAACAQAAAgkA=</HashCode>
+      <FileName>Service\Language.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.ListViewDel" Collapsed="true">
+    <Position X="0.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEQAAABEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service\ListViewDel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Meeting" Collapsed="true">
+    <Position X="4" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAIgAEADMgCAAZoAgADMAEAARABAAEQgCABGIAgAAg=</HashCode>
+      <FileName>Service\Meeting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Opinion" Collapsed="true">
+    <Position X="11" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>4F+hFUAb5RQmQUWRpMQFQIDEBVgSAABaEgBAaqBAADE=</HashCode>
+      <FileName>Service\Opinion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Order" Collapsed="true">
+    <Position X="12.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEQAAABEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Overall" Collapsed="true">
+    <Position X="14.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service\Overall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Poll" Collapsed="true">
+    <Position X="18" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAEDAAAAAQAARAAAAEQAAAwBAACMAQAIhCAACCAhAgA=</HashCode>
+      <FileName>Service\Poll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Poll_print" Collapsed="true">
+    <Position X="0.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAEDAAAAAQAARAAAAEQAAAwREACMAQAIhAAACCABAgA=</HashCode>
+      <FileName>Service\Poll_print.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.PunishAward" Collapsed="true">
+    <Position X="4" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAADABAAAgAEAAAABAAAAAAQAAAAEAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Service\PunishAward.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Resume" Collapsed="true">
+    <Position X="9.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgAEAABABgAgQCAAIAggAAAIAgAAAAAAAAA=</HashCode>
+      <FileName>Service\Resume.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.ResumeProperty" Collapsed="true">
+    <Position X="11" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAIAAAgCEAAAABAAAAAAAAAAAAAAAAAAAAACAAgA=</HashCode>
+      <FileName>Service\ResumeProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.SAbroad" Collapsed="true">
+    <Position X="12.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAEAAAIBAAgCCAQIAIgEAQCAAAEAAABAgA=</HashCode>
+      <FileName>Service\SAbroad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.SaveOverall" Collapsed="true">
+    <Position X="14.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAgAAAAIEAAAABAEABAIDAAQCAgAAAAAAABAAAgA=</HashCode>
+      <FileName>Service\SaveOverall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.StudyAbroad" Collapsed="true">
+    <Position X="2.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAEAAAABAAgACAQIAIgEAACAAAAAAABAgA=</HashCode>
+      <FileName>Service\StudyAbroad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.TMethod" Collapsed="true">
+    <Position X="5.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACAAAAAAAEAAAABAAgAAAAJAAAAAQAAAAAAABAAgA=</HashCode>
+      <FileName>Service\TMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.ToOrder" Collapsed="true">
+    <Position X="7.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgACAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Service\ToOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Train" Collapsed="true">
+    <Position X="9.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACEAAgAgAEAAAABAAgACAAIgAgAAAAACAAAAAAAgA=</HashCode>
+      <FileName>Service\Train.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.Unit" Collapsed="true">
+    <Position X="11" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAQAAgAAAAAAAAAAAAAAAgAAAIAAAACAAAAAAAA=</HashCode>
+      <FileName>Service\Unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.WAbroad" Collapsed="true">
+    <Position X="16.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAEAQAIBAAgCCIAIAMiAAQCAAAEAAAAAgA=</HashCode>
+      <FileName>Service\WAbroad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.Service.WorkAbroad" Collapsed="true">
+    <Position X="18" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAEAQAABAAgACIAIAMiAAACAAAAAAAAAgA=</HashCode>
+      <FileName>Service\WorkAbroad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HBMISR.server.Show_Serve" Collapsed="true">
+    <Position X="0.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAABAACAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>server\Show_Serve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

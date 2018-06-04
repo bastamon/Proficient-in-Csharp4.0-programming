@@ -1,0 +1,9 @@
+E:\例程\6-7\6-7\bin\Debug\6-7.exe
+E:\例程\6-7\6-7\bin\Debug\6-7.pdb
+E:\例程\6-7\6-7\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\例程\6-7\6-7\obj\x86\Debug\_6_7.Form1.resources
+E:\例程\6-7\6-7\obj\x86\Debug\_6_7.Properties.Resources.resources
+E:\例程\6-7\6-7\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\例程\6-7\6-7\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\例程\6-7\6-7\obj\x86\Debug\6-7.exe
+E:\例程\6-7\6-7\obj\x86\Debug\6-7.pdb

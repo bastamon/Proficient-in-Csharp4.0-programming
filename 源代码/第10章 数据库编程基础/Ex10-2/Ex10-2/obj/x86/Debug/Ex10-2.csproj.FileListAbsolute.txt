@@ -1,0 +1,11 @@
+E:\U盘备份--20130905\2013年暑假C#教材\第7章和第10章(含习题和答案以及实现代码)--第四稿\Chapter 10\Ex10-2\Ex10-2\bin\Debug\Ex10-2.exe
+E:\U盘备份--20130905\2013年暑假C#教材\第7章和第10章(含习题和答案以及实现代码)--第四稿\Chapter 10\Ex10-2\Ex10-2\bin\Debug\Ex10-2.pdb
+E:\U盘备份--20130905\2013年暑假C#教材\第7章和第10章(含习题和答案以及实现代码)--第四稿\Chapter 10\Ex10-2\Ex10-2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\U盘备份--20130905\2013年暑假C#教材\第7章和第10章(含习题和答案以及实现代码)--第四稿\Chapter 10\Ex10-2\Ex10-2\obj\x86\Debug\Ex10_2.Form1.resources
+E:\U盘备份--20130905\2013年暑假C#教材\第7章和第10章(含习题和答案以及实现代码)--第四稿\Chapter 10\Ex10-2\Ex10-2\obj\x86\Debug\Ex10_2.Properties.Resources.resources
+E:\U盘备份--20130905\2013年暑假C#教材\第7章和第10章(含习题和答案以及实现代码)--第四稿\Chapter 10\Ex10-2\Ex10-2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\U盘备份--20130905\2013年暑假C#教材\第7章和第10章(含习题和答案以及实现代码)--第四稿\Chapter 10\Ex10-2\Ex10-2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\U盘备份--20130905\2013年暑假C#教材\第7章和第10章(含习题和答案以及实现代码)--第四稿\Chapter 10\Ex10-2\Ex10-2\obj\x86\Debug\Ex10-2.exe
+E:\U盘备份--20130905\2013年暑假C#教材\第7章和第10章(含习题和答案以及实现代码)--第四稿\Chapter 10\Ex10-2\Ex10-2\obj\x86\Debug\Ex10-2.pdb
+D:\document\C#\精通C#4.0程序设计放网上\源代码\第10章 数据库编程基础\Ex10-2\Ex10-2\obj\x86\Debug\Ex10-2.exe
+D:\document\C#\精通C#4.0程序设计放网上\源代码\第10章 数据库编程基础\Ex10-2\Ex10-2\obj\x86\Debug\Ex10-2.pdb

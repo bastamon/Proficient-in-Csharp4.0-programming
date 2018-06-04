@@ -1,0 +1,9 @@
+E:\第8章例程\8-2\8-2\bin\Debug\8-2.exe
+E:\第8章例程\8-2\8-2\bin\Debug\8-2.pdb
+E:\第8章例程\8-2\8-2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\第8章例程\8-2\8-2\obj\x86\Debug\_8_2.Form1.resources
+E:\第8章例程\8-2\8-2\obj\x86\Debug\_8_2.Properties.Resources.resources
+E:\第8章例程\8-2\8-2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\第8章例程\8-2\8-2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\第8章例程\8-2\8-2\obj\x86\Debug\8-2.exe
+E:\第8章例程\8-2\8-2\obj\x86\Debug\8-2.pdb

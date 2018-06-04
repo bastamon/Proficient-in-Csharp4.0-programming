@@ -1,0 +1,101 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ConsoleApplication6
+{
+    class Program
+    {
+        class car
+        {
+            private int _百公里耗油 = 10;
+            private int _油箱容积 = 60;
+            private int _油表;
+            private int _公里数;
+
+            public int 百公里耗油
+            {
+                get { return 百公里耗油; }
+            }
+            public int 油箱容积
+            {
+                get { return _油箱容积; }
+            }
+            public int 油表
+            {
+                get { return _油表; }
+                set { _油表 = value; }
+            }
+            public int 公里数
+            {
+                get { return _公里数; }
+                set { _公里数 = value; }
+            }
+            public car()
+            {
+                _油表 = _油箱容积;
+                _公里数 = 0;
+            }
+            public car(int 当前油表)
+            {
+                _油表 = 当前油表;
+                _公里数 = 0;
+            }
+            public car(int 当前油表, int 当前里程)
+            {
+                _油表 = 当前油表;
+                _公里数 = 当前里程;
+            }
+            private int 计算耗油(int 行驶公里数)
+            {
+                return 行驶公里数 * _百公里耗油 / 100;
+            }
+            public void 行驶(int 行驶公里数)
+            {
+                Console.WriteLine("行驶{0}公里开始", 行驶公里数);
+                if (_油表 > 计算耗油(行驶公里数))
+                {
+                    _公里数 += 行驶公里数;
+                    _油表 -= 计算耗油(行驶公里数);
+                    Console.WriteLine("行驶完毕");
+                }
+                else
+                    Console.WriteLine("油耗不足，行驶失败");
+            }
+            public void 加油()
+            {
+                Console.WriteLine("开始加油");
+                int 需要加的油 = _油箱容积 - _油表;
+                _油表 += 需要加的油;
+                Console.WriteLine("加油完毕，一共加了{0}升", 需要加的油);
+            }
+            public void 加油(int 加油体积)
+            {
+                Console.WriteLine("加油{0}升开始", 加油体积);
+                if (加油体积 < _油箱容积)
+                {
+                    _油表 += 加油体积;
+                    Console.WriteLine("加油完毕");
+                }
+                else
+                    Console.WriteLine("超过最大油箱容积，加油失败");
+            }
+            public void 获取当前汽车信息()
+            {
+                Console.WriteLine(string.Format("当前油表：{0}当前里数{1}", _油表, _公里数));
+            }
+        }
+        static void Main(string[] args)
+        {
+            car car = new car();
+            car.行驶(100);
+            car.获取当前汽车信息();
+            car.行驶(400);
+            car.获取当前汽车信息();
+            car.加油();
+            car.获取当前汽车信息();
+            car.加油();
+            car.获取当前汽车信息();
+        }
+    }
+}

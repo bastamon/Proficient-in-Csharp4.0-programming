@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Car xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OilMeter>10</OilMeter>
+  <OilCosumption>8.5</OilCosumption>
+  <Mileage>0</Mileage>
+</Car>

@@ -1,0 +1,12 @@
+E:\例程\Ex6-1\Ex6-1\bin\Debug\Ex6-1.exe
+E:\例程\Ex6-1\Ex6-1\bin\Debug\Ex6-1.pdb
+E:\例程\Ex6-1\Ex6-1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\例程\Ex6-1\Ex6-1\obj\x86\Debug\Ex6_1.Form1.resources
+E:\例程\Ex6-1\Ex6-1\obj\x86\Debug\Ex6_1.Form2.resources
+E:\例程\Ex6-1\Ex6-1\obj\x86\Debug\Ex6_1.Properties.Resources.resources
+E:\例程\Ex6-1\Ex6-1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\例程\Ex6-1\Ex6-1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\例程\Ex6-1\Ex6-1\obj\x86\Debug\Ex6-1.exe
+E:\例程\Ex6-1\Ex6-1\obj\x86\Debug\Ex6-1.pdb
+E:\习题\Ex6-1\Ex6-1\obj\x86\Debug\Ex6-1.exe
+E:\习题\Ex6-1\Ex6-1\obj\x86\Debug\Ex6-1.pdb

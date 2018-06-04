@@ -1,0 +1,8 @@
+E:\第8章习题\Ex8-1\Ex8-1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\第8章习题\Ex8-1\Ex8-1\obj\x86\Debug\Ex8_1.Properties.Resources.resources
+E:\第8章习题\Ex8-1\Ex8-1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\第8章习题\Ex8-1\Ex8-1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\第8章习题\Ex8-1\Ex8-1\bin\Debug\Ex8-1.exe
+E:\第8章习题\Ex8-1\Ex8-1\bin\Debug\Ex8-1.pdb
+E:\第8章习题\Ex8-1\Ex8-1\obj\x86\Debug\Ex8-1.exe
+E:\第8章习题\Ex8-1\Ex8-1\obj\x86\Debug\Ex8-1.pdb

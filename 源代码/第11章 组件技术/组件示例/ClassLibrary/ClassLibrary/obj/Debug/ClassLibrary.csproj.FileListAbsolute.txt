@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\C#\第十章\组件示例\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Administrator\Desktop\C#\第十章\组件示例\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Administrator\Desktop\C#\第十章\组件示例\ClassLibrary\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\第十章\组件示例\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Administrator\Desktop\C#\第十章\组件示例\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb

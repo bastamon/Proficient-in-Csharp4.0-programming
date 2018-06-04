@@ -1,0 +1,18 @@
+E:\例程\6-1\6-1\bin\Debug\6-1.exe
+E:\例程\6-1\6-1\bin\Debug\6-1.pdb
+E:\例程\6-1\6-1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\例程\6-1\6-1\obj\x86\Debug\_6_1.Form1.resources
+E:\例程\6-1\6-1\obj\x86\Debug\_6_1.Properties.Resources.resources
+E:\例程\6-1\6-1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\例程\6-1\6-1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\例程\6-1\6-1\obj\x86\Debug\6-1.exe
+E:\例程\6-1\6-1\obj\x86\Debug\6-1.pdb
+D:\document\C#\精通C#4.0程序设计放网上\源代码\第06章 Windows窗体应用程序设计\6-1\6-1\obj\x86\Debug\6-1.exe
+D:\document\C#\精通C#4.0程序设计放网上\源代码\第06章 Windows窗体应用程序设计\6-1\6-1\obj\x86\Debug\6-1.pdb
+D:\document\C#\精通C#4.0程序设计放网上\源代码\第06章 Windows窗体应用程序设计\6-1\6-1\bin\Debug\6-1.exe
+D:\document\C#\精通C#4.0程序设计放网上\源代码\第06章 Windows窗体应用程序设计\6-1\6-1\bin\Debug\6-1.pdb
+D:\document\C#\精通C#4.0程序设计放网上\源代码\第06章 Windows窗体应用程序设计\6-1\6-1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\document\C#\精通C#4.0程序设计放网上\源代码\第06章 Windows窗体应用程序设计\6-1\6-1\obj\x86\Debug\_6_1.Form1.resources
+D:\document\C#\精通C#4.0程序设计放网上\源代码\第06章 Windows窗体应用程序设计\6-1\6-1\obj\x86\Debug\_6_1.Properties.Resources.resources
+D:\document\C#\精通C#4.0程序设计放网上\源代码\第06章 Windows窗体应用程序设计\6-1\6-1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\document\C#\精通C#4.0程序设计放网上\源代码\第06章 Windows窗体应用程序设计\6-1\6-1\obj\x86\Debug\GenerateResource.write.1.tlog

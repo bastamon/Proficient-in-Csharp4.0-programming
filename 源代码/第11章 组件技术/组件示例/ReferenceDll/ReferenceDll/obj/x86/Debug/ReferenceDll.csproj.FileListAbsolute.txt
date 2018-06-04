@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\C#\第十章\组件示例\ReferenceDll\ReferenceDll\bin\Debug\ReferenceDll.exe
+C:\Users\Administrator\Desktop\C#\第十章\组件示例\ReferenceDll\ReferenceDll\bin\Debug\ReferenceDll.pdb
+C:\Users\Administrator\Desktop\C#\第十章\组件示例\ReferenceDll\ReferenceDll\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\第十章\组件示例\ReferenceDll\ReferenceDll\obj\x86\Debug\ReferenceDll.Form1.resources
+C:\Users\Administrator\Desktop\C#\第十章\组件示例\ReferenceDll\ReferenceDll\obj\x86\Debug\ReferenceDll.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\第十章\组件示例\ReferenceDll\ReferenceDll\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\C#\第十章\组件示例\ReferenceDll\ReferenceDll\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\C#\第十章\组件示例\ReferenceDll\ReferenceDll\obj\x86\Debug\ReferenceDll.exe
+C:\Users\Administrator\Desktop\C#\第十章\组件示例\ReferenceDll\ReferenceDll\obj\x86\Debug\ReferenceDll.pdb

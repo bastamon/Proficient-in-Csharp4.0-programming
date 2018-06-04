@@ -1,0 +1,4 @@
+说明：
+    文件gbjbxx.bak为干部基本信息数据库，其中包含两个数据表：干部基本信息表（TB_Commoninf）和熟悉外语语种信息表（TB_FamiliarForeign）。
+    在运行本章所有的例子时，只需将数据库gbjbxx.bak还原到Microsoft SQL Server 2008，并开启Microsoft SQL Server 2008服务即可。
+    访问该数据库默认的账号为test，密码为123456.

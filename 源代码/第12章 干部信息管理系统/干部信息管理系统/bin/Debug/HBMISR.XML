@@ -1,0 +1,4142 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HBMISR</name>
+    </assembly>
+    <members>
+        <member name="T:HBMISR.GUI.OtherGUI.FrmLogin">
+            <summary>
+            窗体类
+            功能：
+            1、验证密码，进入系统
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmLogin.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmLogin.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmLogin.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmLogin.readIni">
+            <summary>
+            读取ini文件
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmLogin.filePath">
+            <summary>
+            数据文件的路径
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmLogin.IsSuccessful">
+            <summary>
+            指示创建hbmis文件是否成功。
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmLogin.version">
+            <summary>
+            版本号
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmLogin.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmLogin.radioButton1_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            当radioButton1为选中状态时，获取其版本。
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmLogin.radioButton2_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            当radioButton2为选中状态时，获取其版本。
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmLogin.radioButton3_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            当radioButton3为选中状态时，获取其版本。
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmLogin.FrmLogin_Load(System.Object,System.EventArgs)">
+            <summary>
+            窗体加载事件处理,判断用户是否已经选择版本号.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmLogin.FrmLogin_FormClosed(System.Object,System.Windows.Forms.FormClosedEventArgs)">
+            <summary>
+            点击窗体的关闭按钮事件处理,结束当前线程,突出程序。
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmLogin.btn_Login_Click(System.Object,System.EventArgs)">
+            <summary>
+            点击登录按钮事件处理，判断密码是否输入正确，是否选择版本号，是否以创建数据文件。
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="T:HBMISR.GUI.AnalyzeGUI.FrmAnalyze">
+            <summary>
+            基本分析窗体
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.AnalyzeGUI.FrmAnalyze.arry1">
+            <summary>
+            参加理论培训的干部编号
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.AnalyzeGUI.FrmAnalyze.arry2">
+            <summary>
+            参加出国出境培训的干部编号
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.AnalyzeGUI.FrmAnalyze.arry3">
+            <summary>
+            参加理论培训超过90天的干部编号
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.AnalyzeGUI.FrmAnalyze.i7">
+            <summary>
+            同时参加理论培训和出国出境培训的干部人数
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.AnalyzeGUI.FrmAnalyze.i8">
+            <summary>
+            同时参加理论培训和出国出境培训并且理论培训大于90天的干部人数
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.AnalyzeGUI.FrmAnalyze.#ctor">
+            <summary>
+            基本分析窗体构造函数
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.AnalyzeGUI.FrmAnalyze.Analyze_Load(System.Object,System.EventArgs)">
+            <summary>
+            基本分析窗体初始化
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.AnalyzeGUI.FrmAnalyze.button_search_Click(System.Int32)">
+            <summary>
+            查询信息
+            </summary>
+            <param name="qd"></param>
+        </member>
+        <member name="M:HBMISR.GUI.AnalyzeGUI.FrmAnalyze.rdb_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            正副职选择变化的事件监听
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.AnalyzeGUI.FrmAnalyze.rdb1_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            正副职选择变化的事件监听
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.AnalyzeGUI.FrmAnalyze.rdb0_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            正副职选择变化的事件监听
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:HBMISR.GUI.AnalyzeGUI.FrmAnalyze.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.AnalyzeGUI.FrmAnalyze.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:HBMISR.GUI.AnalyzeGUI.FrmAnalyze.InitializeComponent">
+            <summary>
+            基本分析窗体构造器
+            </summary>
+        </member>
+        <member name="T:HBMISR.Data.AllPrint">
+            <summary>
+            实例初步人选名册
+            </summary>
+        </member>
+        <member name="M:HBMISR.Data.AllPrint.exportword(System.Collections.ArrayList)">
+            <summary>
+            给初步人选名册表填值并导出
+            </summary>
+            <param name="idlist">传递所选干部的所有id</param>
+        </member>
+        <member name="T:HBMISR.Service.StudyAbroad">
+            <summary>
+            属性类
+            
+            配合海外学习做数据操作，对应TB_SAbord
+            </summary>
+        </member>
+        <member name="T:HBMISR.Service.Order">
+            <summary>
+            属性类
+            功能：
+            1、配合后备干部排序功能的实现
+            </summary>
+        </member>
+        <member name="T:HBMISR.Service.Language">
+            <summary>
+            属性类
+            功能：
+            1、配合的熟悉外语语种数据操作，对应数据表TB_Familarforegin
+            </summary>
+        </member>
+        <member name="T:HBMISR.Service.Demand">
+            <summary>
+            属性类
+            功能：
+            1、配合培养措施的数据操作使用，对应数据表TrainMethord
+            </summary>
+        </member>
+        <member name="M:HBMISR.Program.Main">
+            <summary>
+            应用程序的主入口点。
+            </summary>
+        </member>
+        <member name="T:HBMISR.GUI.PrintGUI.C_HBNameList">
+            <summary>
+            用来显示初步人选名册
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.C_HBNameList.components">
+            <summary> 
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBNameList.Dispose(System.Boolean)">
+            <summary> 
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBNameList.InitializeComponent">
+            <summary> 
+             用来显示初步人选名册构造器
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.C_HBNameList.idlist">
+            <summary>
+            //记录需要打印的后备干部编号
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.C_HBNameList.unit">
+            <summary>
+            //单位名称
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.C_HBNameList.unitclass">
+            <summary>
+            //单位类别
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.C_HBNameList.qd">
+            <summary>
+            //正副职
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBNameList.#ctor">
+            <summary>
+            /\ 用来显示初步人选名册构造函数
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBNameList.C_HBNameList_Load(System.Object,System.EventArgs)">
+            <summary>
+             用来显示初步人选名册初始化
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBNameList.todate(System.String)">
+            <summary>
+            将****年**月格式改为****.**格式
+            </summary>
+            <param name="date"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBNameList.setexplain(System.String)">
+            <summary>
+            处理说明信息的换行问题
+            </summary>
+            <param name="explain"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBNameList.isAddEnter(System.String,System.String)">
+            <summary>
+            判断是否加入换行符，返回一个字符串
+            </summary>
+            <param name="str1"></param>
+            <param name="str2"></param>
+            <returns></returns>
+        </member>
+        <member name="T:HBMISR.GUI.PrintGUI.C_HBMessage">
+            <summary>
+            后备干部的信息采集表
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.C_HBMessage.components">
+            <summary> 
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBMessage.Dispose(System.Boolean)">
+            <summary> 
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBMessage.InitializeComponent">
+            <summary> 
+            后备干部的信息采集表g构造器
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.C_HBMessage.idlist">
+            <summary>
+            //记录需要打印的后备干部编号
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.C_HBMessage.unit">
+            <summary>
+            //单位名称
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.C_HBMessage.unitclass">
+            <summary>
+            //单位类别
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.C_HBMessage.qd">
+            <summary>
+            //正副职
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.C_HBMessage.uid">
+            <summary>
+            //单位编号
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBMessage.#ctor">
+            <summary>
+            后备干部的信息采集表构造函数
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBMessage.C_HBMessage_Load(System.Object,System.EventArgs)">
+            <summary>
+            加载事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBMessage.todate(System.String)">
+            <summary>
+            将****年**月改为****.**
+            </summary>
+            <param name="date">****年**月</param>
+            <returns>****.**</returns>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBMessage.todate2(System.String)">
+            <summary>
+            获得日期
+            </summary>
+            <param name="date"></param>
+            <returns></returns>
+        </member>
+        <member name="T:HBMISR.Service.Unit">
+            <summary>
+            单位信息
+            功能
+            1、记录单位的相关信息
+            </summary>
+        </member>
+        <member name="T:HBMISR.Service.InCommonInfo">
+            <summary>
+            属性类
+            功能：
+            1、配合的非后备干部人员数据操作，对应数据表TB_NDialog和TB_NMeeting
+            </summary>
+        </member>
+        <member name="T:HBMISR.GUI.MainGUI.ControlNavigation">
+            <summary>
+            页首--导航条
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.MainGUI.ControlNavigation.controlMain">
+            <summary>
+            记录ControlMain类型的实例
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.MainGUI.ControlNavigation.cp">
+            <summary>
+            记录ControlPrint事件的处理
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlNavigation.#ctor">
+            <summary>
+            页首导航条构造函数
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlNavigation.button1_Click_File(System.Object,System.EventArgs)">
+            <summary>
+            文件管理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlNavigation.button2_Click_Insert(System.Object,System.EventArgs)">
+            <summary>
+            综合管理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlNavigation.button3_Click_Analyse(System.Object,System.EventArgs)">
+            <summary>
+            数据分析
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlNavigation.button4_Click_Print(System.Object,System.EventArgs)">
+            <summary>
+            打印管理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlNavigation.button_User_Click(System.Object,System.EventArgs)">
+            <summary>
+            用户管理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:HBMISR.GUI.MainGUI.ControlNavigation.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlNavigation.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlNavigation.InitializeComponent">
+             <summary> 
+            页首导航条的构造器
+             </summary>
+        </member>
+        <member name="T:HBMISR.Service.SAbroad">
+            <summary>
+            属性类
+            功能：
+            1、配合海外学习数据操作，对应数据表TB_StudyAbord
+            </summary>
+        </member>
+        <member name="T:HBMISR.Service.Resume">
+            <summary>
+            属性类
+            功能：
+            1、配合隔个人简历的数据操作，对应数据表TB_Commoninfo
+            </summary>
+        </member>
+        <member name="T:HBMISR.Service.PunishAward">
+            <summary>
+            属性类
+            功能：
+            1、配合的奖惩情况表的数据操作，对应数据表TB_Award
+            </summary>
+        </member>
+        <member name="T:HBMISR.Service.IdMethord">
+            <summary>
+            属性类
+            功能：
+            1、配合的培养措施需求的数据操作，对应数据表TB_TrainMethord
+            </summary>
+        </member>
+        <member name="T:HBMISR.Service.IContent">
+            <summary>
+            属性类
+            功能：
+            1、配合重大报告事项的数据操作，对应数据表TB_Content
+            </summary>
+        </member>
+        <member name="T:HBMISR.GUI.NoteGUI.FrmMultiChoise">
+            <summary>
+            培养措施选择
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmMultiChoise.#ctor">
+            <summary>
+            培养措施选择构造函数
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmMultiChoise.button2_Click(System.Object,System.EventArgs)">
+            <summary>
+            取消
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmMultiChoise.button1_Click(System.Object,System.EventArgs)">
+            <summary>
+            确定
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmMultiChoise.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmMultiChoise.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmMultiChoise.InitializeComponent">
+            <summary>
+            培养措施选择构造器
+            </summary>
+        </member>
+        <member name="T:HBMISR.GUI.NoteGUI.FrmMaterial">
+            <summary>
+            考察材料
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmMaterial.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmMaterial.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmMaterial.InitializeComponent">
+            <summary>
+            考察材料构造器
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmMaterial.listViewCid">
+            <summary>
+            人员cid
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmMaterial.controlMain">
+            <summary>
+            记录ControlMain类型的实例
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmMaterial.#ctor">
+            <summary>
+            考察材料构造函数
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmMaterial.Form1_Load(System.Object,System.EventArgs)">
+            <summary>
+            考察材料初始化
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmMaterial.button1_Click(System.Object,System.EventArgs)">
+            <summary>
+            保存按钮事件监听
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmMaterial.richTextBoxExtended1_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmMaterial.FrmMaterial_FormClosing(System.Object,System.Windows.Forms.FormClosingEventArgs)">
+            <summary>
+            窗体关闭时事件的处理，当有信息改变时，提示是否保存。
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="T:HBMISR.server.ConvertPinYin">
+            <summary>
+            汉字转换成拼音
+            </summary>
+        </member>
+        <member name="F:HBMISR.server.ConvertPinYin.Allhz">
+            <summary>
+            拼音对应的所有汉字
+            </summary>
+        </member>
+        <member name="F:HBMISR.server.ConvertPinYin.listPI">
+            <summary>
+            保存汉字的首字母
+            </summary>
+        </member>
+        <member name="F:HBMISR.server.ConvertPinYin.listPinYin">
+            <summary>
+            保存汉字的全拼音
+            </summary>
+        </member>
+        <member name="M:HBMISR.server.ConvertPinYin.Hanzi2Pinyin(System.String)">
+            <summary>
+            获取汉字的全拼音
+            </summary>
+            <param name="str">汉字字符串</param>
+            <returns>汉字的拼音</returns>
+        </member>
+        <member name="M:HBMISR.server.ConvertPinYin.Hanzi2PY(System.String)">
+            <summary>
+            获取汉字的首字母
+            </summary>
+            <param name="str">汉字字符串</param>
+            <returns>字的首字母</returns>
+        </member>
+        <member name="M:HBMISR.server.ConvertPinYin.Convert(System.String,System.Collections.Generic.List{System.String}@)">
+            <summary>
+            汉字转换成拼音
+            </summary>
+            <param name="str">汉字字符串</param>
+            <param name="list">拼音List集合</param>
+            <returns>拼音首字母List集合</returns>
+        </member>
+        <member name="M:HBMISR.server.ConvertPinYin.AddPinYin1(System.Collections.Generic.List{System.String}@,System.Collections.Generic.List{System.String[]})">
+            <summary>
+            一个汉字
+            </summary>
+            <param name="list"></param>
+            <param name="listArray"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.server.ConvertPinYin.AddPinYin2(System.Collections.Generic.List{System.String}@,System.Collections.Generic.List{System.String[]})">
+            <summary>
+            两个汉字（求每所有字的笛卡尔积）
+            </summary>
+            <param name="list"></param>
+            <param name="listArray"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.server.ConvertPinYin.AddPinYin3(System.Collections.Generic.List{System.String}@,System.Collections.Generic.List{System.String[]})">
+            <summary>
+            三个汉字（求每所有字的笛卡尔积）
+            </summary>
+            <param name="list"></param>
+            <param name="listArray"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.server.ConvertPinYin.AddPinYin4(System.Collections.Generic.List{System.String}@,System.Collections.Generic.List{System.String[]})">
+            <summary>
+            四个汉字（求每所有字的笛卡尔积）
+            </summary>
+            <param name="list"></param>
+            <param name="listArray"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.server.ConvertPinYin.AddPinYin5(System.Collections.Generic.List{System.String}@,System.Collections.Generic.List{System.String[]})">
+            <summary>
+            五个汉字（求每所有字的笛卡尔积）
+            </summary>
+            <param name="list"></param>
+            <param name="listArray"></param>
+            <returns></returns>
+        </member>
+        <member name="T:HBMISR.GUI.MainGUI.FrmMain">
+            <summary>
+            窗体类，系统主界面
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.FrmMain.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.FrmMain.MainForm_FormClosing(System.Object,System.Windows.Forms.FormClosingEventArgs)">
+            <summary>
+            窗体即将关闭事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.FrmMain.MainForm_FormClosed(System.Object,System.Windows.Forms.FormClosedEventArgs)">
+            <summary>
+            窗体关闭后的事件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.FrmMain.FrmMain_Load(System.Object,System.EventArgs)">
+            <summary>
+            窗体加载事件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:HBMISR.GUI.MainGUI.FrmMain.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.FrmMain.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.FrmMain.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:HBMISR.Data.ReadIni">
+            <summary>
+            读取系统的配置文件
+            </summary>
+        </member>
+        <member name="M:HBMISR.Data.ReadIni.#ctor">
+            <summary>
+            构造函数，给filepath赋值
+            </summary>
+        </member>
+        <member name="M:HBMISR.Data.ReadIni.ReadString(System.String)">
+            <summary>
+            读取配置文件
+            </summary>
+            <param name="key">标识字段</param>
+            <returns>标识字段的值</returns>
+        </member>
+        <member name="M:HBMISR.Data.ReadIni.WriteString(System.String,System.String)">
+            <summary>
+            写入配置文件
+            </summary>
+            <param name="key">标识字段</param>
+            <param name="val">标识字段的值</param>
+        </member>
+        <member name="T:HBMISR.print_class.NameSheetPrint">
+            <summary>
+            导出Word文档，功能：导出简要信息登记表
+            </summary>
+        </member>
+        <member name="M:HBMISR.print_class.NameSheetPrint.#ctor">
+            <summary>
+            打印简要情况登记表
+            </summary>
+        </member>
+        <member name="M:HBMISR.print_class.NameSheetPrint.exportword(System.Collections.ArrayList)">
+            <summary>
+            导出所选后备干部简要情况登记表
+            </summary>
+            <param name="idlist">所选后备干部id号集合</param>
+        </member>
+        <member name="M:HBMISR.print_class.NameSheetPrint.todate(System.String)">
+            <summary>
+            将****年**月改为****.**
+            </summary>
+            <param name="date">****年**月</param>
+            <returns>****.**格式的日期</returns>
+        </member>
+        <member name="M:HBMISR.print_class.NameSheetPrint.HBrewardsAndpunishment(System.String)">
+            <summary>
+            后备干部的奖惩情况
+            </summary>
+            <param name="cid">后备干部id号</param>
+            <returns>奖惩情况</returns>
+        </member>
+        <member name="M:HBMISR.print_class.NameSheetPrint.HByearcheck(System.String)">
+            <summary>
+            后备干部年度考核
+            </summary>
+            <param name="cid">后备干部id号</param>
+            <returns>考核结果</returns>
+        </member>
+        <member name="M:HBMISR.print_class.NameSheetPrint.ImageCollection(System.String)">
+            <summary>
+            储存后备干部照片
+            </summary>
+            <param name="selectid"></param>
+        </member>
+        <member name="T:HBMISR.Service.Exercise">
+            <summary>
+            属性类
+            功能：
+            1、配合的培养措施数据操作，对应数据表TB_TrainExcise
+            </summary>
+        </member>
+        <member name="T:HBMISR.GUI.OtherGUI.FrmRegister">
+            <summary>
+            注册新单位窗体
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmRegister.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmRegister.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmRegister.InitializeComponent">
+            <summary>
+            注册新单位构造器
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmRegister.FrmUnit">
+            <summary>
+            记录FrmUnit类型的实例
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmRegister.#ctor">
+            <summary>
+            注册新单位窗体构造函数
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmRegister.RegisterForm_Load(System.Object,System.EventArgs)">
+            <summary>
+            注册新单位初始化
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmRegister.SetUnitClass">
+            <summary>
+            初始化单位类型
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmRegister.button_regist_Click(System.Object,System.EventArgs)">
+            <summary>
+            注册按钮监听
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmRegister.button_cancel_Click(System.Object,System.EventArgs)">
+            <summary>
+            取消按钮监听
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmRegister.dateTimePicker1_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            限制时间
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="T:HBMISR.GUI.OtherGUI.FrmModifyUnit">
+            <summary>
+            窗体类，注册新单位。
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmModifyUnit.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmModifyUnit.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmModifyUnit.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmModifyUnit.strUnitName">
+            <summary>
+            单位名称
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmModifyUnit.strUnitClass">
+            <summary>
+            单位类别
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmModifyUnit.dt">
+            <summary>
+            存储读出的单位信息
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmModifyUnit.frmUnit">
+            <summary>
+            记录FrmUnit类型的实例
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmModifyUnit.index">
+            <summary>
+            图片索引
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmModifyUnit.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmModifyUnit.ModifyUnit_Load(System.Object,System.EventArgs)">
+            <summary>
+            窗体加载事件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmModifyUnit.btn_Sure_Click(System.Object,System.EventArgs)">
+            <summary>
+            修改单位名称，刷新列出单位的窗体
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmModifyUnit.button2_Click(System.Object,System.EventArgs)">
+            <summary>
+            点击取消按钮事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="T:HBMISR.GUI.MainGUI.ControlMain">
+            <summary>
+            控件类
+            1、构成主界面的重要组成部分
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.MainGUI.ControlMain.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.MainGUI.ControlMain.showTime">
+            <summary>
+            显示时间的线程
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.MainGUI.ControlMain.inputPath">
+            <summary>
+            要导入的文件路径
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.MainGUI.ControlMain.panelStyle">
+            <summary>
+            指定进入那种连接模式
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.ControlMain_Load(System.Object,System.EventArgs)">
+            <summary>
+            生成listview列头
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.comboBox1_SelectedIndexChanged_1(System.Object,System.EventArgs)">
+            <summary>
+            正副职改变时，刷新页面。
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.ShowSearch(System.Data.DataTable)">
+            <summary>
+            向listview中添加人员信息。
+            </summary>
+            <param name="dt">存储人员信息的数据表</param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.run">
+            <summary>
+            显示时间的线程
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.ShowTime">
+            <summary>
+            显示时间
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.reUnit">
+            <summary>
+            重读单位名称
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.ShowInfo(System.String)">
+            <summary>
+            向listview中添加数据
+            </summary>
+            <param name="sql"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.AllInformation_ListView_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            当选中的人员变化时，RemainInfo中的内容也随之改变
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.label_regist_Click(System.Object,System.EventArgs)">
+            <summary>
+            当点击label_regist，所调用的方法
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.CopyDirectory(System.String,System.String,System.Boolean)">
+            <summary>
+            复制目录
+            </summary>
+            <param name="SourcePath">源路径</param>
+            <param name="TargetPath">目标路径</param>
+            <param name="Overwrite">是否覆盖</param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.label_informationGathering_Click(System.Object,System.EventArgs)">
+            <summary>
+            当点击label_information_Gather，所调用的方法
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.label_meeting_Click(System.Object,System.EventArgs)">
+            <summary>
+            当点击label_meeting，所调用的方法
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.label_dailog_Click(System.Object,System.EventArgs)">
+            <summary>
+            当点击label_dailog，所调用的方法
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.CreateRijndael(System.String,System.Byte[])">
+            <summary>
+            创建Rijndael SymmetricAlgorithm
+            </summary>
+            <param name="password">密码</param>
+            <param name="salt"></param>
+            <returns>加密对象</returns>
+        </member>
+        <member name="F:HBMISR.GUI.MainGUI.ControlMain.rand">
+            <summary>
+            加密文件随机数生成
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.GenerateRandomBytes(System.Int32)">
+            <summary>
+            生成指定长度的随机Byte数组
+            </summary>
+            <param name="count">Byte数组长度</param>
+            <returns>随机Byte数组</returns>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.EncryptFile(System.String,System.String,System.String)">
+            <summary>
+            加密文件
+            </summary>
+            <param name="inFile">待加密文件</param>
+            <param name="outFile">加密后输入文件</param>
+            <param name="password">加密密码</param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.label_name_sheet_Click(System.Object,System.EventArgs)">
+            <summary>
+            当点击label_name_sheet，所调用的方法。
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.label_Material_Click(System.Object,System.EventArgs)">
+            <summary>
+            当点击label_Material，所调用的方法(新增人员)。
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.btn_Delete_Click(System.Object,System.EventArgs)">
+            <summary>
+            点击删除事件的处理，实现删除选中的人员。
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.allpeople_Lb_Click(System.Object,System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.AllInformation_ListView_MouseDoubleClick(System.Object,System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            双击listview事件处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.allpeople_Lb_MouseEnter(System.Object,System.EventArgs)">
+            <summary>
+            鼠标进入allpeople_Lb事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.allpeople_Lb_MouseLeave(System.Object,System.EventArgs)">
+            <summary>
+            鼠标移开allpeople_Lb事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.label_information_gather_MouseLeave(System.Object,System.EventArgs)">
+            <summary>
+            当鼠标移开时，调用的方法
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.label_information_gather_MouseEnter(System.Object,System.EventArgs)">
+            <summary>
+            对鼠标移开label_information事件处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.TSMI_Delete_Click(System.Object,System.EventArgs)">
+            <summary>
+            右键删除事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.TSMI_Alter_Click(System.Object,System.EventArgs)">
+            <summary>
+            右键修改事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.TSMI_Recover_Click(System.Object,System.EventArgs)">
+            <summary>
+            右键撤销删除事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.Delete">
+            <summary>
+            删除选中的具体的人员
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.AddNumber">
+            <summary>
+            添加序号
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.listView_MouseClick(System.Object,System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            listView上鼠标点击事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.listView_MouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            鼠标松开事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.readShowTable(System.String)">
+            <summary>
+            读取人员的相关信息
+            </summary>
+            <param name="cid"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.clearPage">
+            <summary>
+            清空页面中的所有信息
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.OpenDataFile">
+            <summary>
+            打开数据文件
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.listView_ItemDrag(System.Object,System.Windows.Forms.ItemDragEventArgs)">
+            <summary>
+            当拖动某项时
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.listView_DragEnter(System.Object,System.Windows.Forms.DragEventArgs)">
+            <summary>
+            用鼠标拖动某项至该控件的区域时
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.listView_DragOver(System.Object,System.Windows.Forms.DragEventArgs)">
+            <summary>
+            拖动时拖着某项置于某行上方时
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlMain.listView_DragDrop(System.Object,System.Windows.Forms.DragEventArgs)">
+            <summary>
+            拖动结束
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="T:HBMISR.Service.WorkAbroad">
+            <summary>
+            国外工作
+            功能
+            1、记录后备干部关于国外工作相关信息
+            </summary>
+        </member>
+        <member name="T:HBMISR.Service.WAbroad">
+            <summary>
+            国外学习
+            功能
+            1、记录后备干部关于国外学习相关信息
+            </summary>
+        </member>
+        <member name="T:HBMISR.Service.FLanguage">
+            <summary>
+            属性类
+            功能：
+            1、配合的熟悉外语语种数据操作，对应数据表TB_FamilarForeign
+            </summary>
+        </member>
+        <member name="T:HBMISR.GUI.OtherGUI.FrmUnitRegist">
+            <summary>
+            窗体类，功能：注册单位
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmUnitRegist.unitString">
+            <summary>
+            记录单位
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmUnitRegist.success">
+            <summary>
+            标记
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmUnitRegist.unit">
+            <summary>
+            属性类对象，记录单位的类别、单位名称、注册时间
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmUnitRegist.dataoperation">
+            <summary>
+            操作根目录文件
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmUnitRegist.unitForm">
+            <summary>
+            选择单位的窗体类对象
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnitRegist.#ctor(System.String)">
+            <summary>
+            构造方法
+            </summary>
+            <param name="unitclass">单位类别</param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnitRegist.RegisterForm_Load(System.Object,System.EventArgs)">
+            <summary>
+            窗体加载事件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnitRegist.SetUnitClass">
+            <summary>
+            根据版本号设置单位的类别
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnitRegist.button_regist_Click(System.Object,System.EventArgs)">
+            <summary>
+            对点击注册按钮事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnitRegist.button_cancel_Click(System.Object,System.EventArgs)">
+            <summary>
+            取消按钮
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnitRegist.dateTimePicker1_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            对时间进行限制
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmUnitRegist.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnitRegist.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnitRegist.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="T:HBMISR.GUI.OtherGUI.FrmUnit">
+            <summary>
+            窗体类：
+            1、选择单位创建数据文件 
+            2、注册新单位
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmUnit.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnit.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnit.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmUnit.unitClass">
+            <summary>
+            单位类别
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmUnit.index">
+            <summary>
+            记录comboBox_select控件的索引
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmUnit.CanClearUnitName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnit.button_sure_Click(System.Object,System.EventArgs)">
+            <summary>
+            点击创建数据文件的事件的处理，创建数据文件。
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnit.CloseCurrentWindow">
+            <summary>
+            关闭本窗体
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnit.run1(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="path"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnit.FrmUnit_Load(System.Object,System.EventArgs)">
+            <summary>
+            窗体加载事件的处理，初始化页面，列出某一单位类别的单位。
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnit.SetUnitClass">
+            <summary>
+            设置单位类别
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnit.comboBox_select_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            单位类别发生改变时，产生的事件。
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnit.showUnitName">
+            <summary>
+            列出某一单位类别中的所有单位。
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnit.button_rigist_Click(System.Object,System.EventArgs)">
+            <summary>
+            对注册新单位事件的处理，注册新单位。
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnit.UnitForm_FormClosing(System.Object,System.Windows.Forms.FormClosingEventArgs)">
+            <summary>
+            窗体关闭时所进行的操作，程序退出。
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnit.TStMI_Delete_Click(System.Object,System.EventArgs)">
+            <summary>
+            对鼠标右击删除事件的处理，删除选中的单位。
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnit.listView1_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            选择不同的单位
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnit.TSMI_Alter_Click(System.Object,System.EventArgs)">
+            <summary>
+            修改单位名称
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmUnit.label_showUnit_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            label_showUnit信息改变的事件处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="T:HBMISR.GUI.MainGUI.ControlHead">
+            <summary>
+            页首类
+            </summary>
+            <summary>
+            控件类：主界面的标题
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.MainGUI.ControlHead.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlHead.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlHead.InitializeComponent">
+             <summary> 
+            页首控件的构造器
+             </summary>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlHead.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="M:HBMISR.Data.SQLPoolManage.#ctor">
+            <summary> 
+            初始化 
+            </summary> 
+        </member>
+        <member name="M:HBMISR.Data.SQLPoolManage.PushSQL(System.String)">
+            <summary> 
+            将SQL语句加入SQL池中 
+            </summary> 
+            <param name="strSQL"></param> 
+        </member>
+        <member name="M:HBMISR.Data.SQLPoolManage.ExecuteSQL(System.Object)">
+            <summary> 
+            每隔一段时间，触发ExecuteSQL 
+            ExecuteSQL用于执行SQL池中的SQL语句 
+            </summary> 
+            <param name="obj"></param> 
+        </member>
+        <member name="T:HBMISR.Service.Family">
+            <summary>
+            属性类
+            功能：
+            1、配合家庭成员数据操作，对应数据表TB_Family
+            </summary>
+        </member>
+        <member name="T:HBMISR.Service.Class_HBMainMessage">
+            <summary>
+            属性类
+            功能：
+            1、该类对应干部人选信息采集表表的打印预览
+            </summary>      
+        </member>
+        <member name="T:HBMISR.Service.BriefRigist">
+            <summary>
+            属性类 
+            功能： 
+            1、配合简要情况登记的数据操作，对应数据表TB_Commoninfo。
+            </summary>
+        </member>
+        <member name="T:HBMISR.GUI.PrintGUI.ControlPrint">
+            <summary>
+            打印主界面
+            /// </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.ControlPrint.components">
+            <summary> 
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.ControlPrint.Dispose(System.Boolean)">
+            <summary> 
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.ControlPrint.InitializeComponent">
+            <summary> 
+            打印主界面的构造器
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.ControlPrint.bScreen">
+            <summary>
+            //标记tabControl是否充满整个窗体,true表示充满窗体，false表示没充满窗体
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.ControlPrint.userControlIsthere">
+            <summary>
+            //标志tabControl中是否有UserControl，初始值为false，当有时为true
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.ControlPrint.pictureBox1Isthere">
+            <summary>
+            //标志picturebox是否存在，true表示存在，false表示不存在
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.ControlPrint.unit">
+            <summary>
+            //单位名称
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.ControlPrint.unitclass">
+            <summary>
+            //单位类别
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.ControlPrint.#ctor">
+            <summary>
+            打印主界面的构造函数
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.ControlPrint.PrintControl_Load(System.Object,System.EventArgs)">
+            <summary>
+            打印主界面初始化
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.ControlPrint.GetUnitNC">
+            <summary>
+            获取单位信息
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.ControlPrint.PrintControl_SizeChanged(System.Object,System.EventArgs)">
+            <summary>
+            UserControl的大小改变时发生
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.ControlPrint.setlocation">
+            <summary>
+            设置控件的位置及大小
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.ControlPrint.tabControl1_DoubleClick(System.Object,System.EventArgs)">
+            <summary>
+            双击tabControl1事件监听
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.ControlPrint.showListView(System.String)">
+            <summary>
+            listView1中添加数据
+            </summary>
+            <param name="qd"></param>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.ControlPrint.getSelectID">
+            <summary>
+            得到选择的后备干部的id并返回
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.ControlPrint.closeAllControls">
+            <summary>
+            关闭groupBox_PrintViewer中所有打开报表预览容器
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.ControlPrint.AllSelect_Click(System.Object,System.EventArgs)">
+            <summary>
+            全选按钮事件处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.ControlPrint.OppositeSelect_Click(System.Object,System.EventArgs)">
+            <summary>
+            反选按钮事件处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.ControlPrint.ClearSelect_Click(System.Object,System.EventArgs)">
+            <summary>
+            全不选选按钮事件处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.ControlPrint.comboBox1_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            选择报表事件处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.ControlPrint.HBNameList">
+            <summary>
+            初步人选名册打印预览
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.ControlPrint.HBMessage">
+            <summary>
+            信息采集表打印预览
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.ControlPrint.HBMainMessage">
+            <summary>
+            简要情况登记打印预览
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.ControlPrint.HBData">
+            <summary>
+            后备干部考察材料
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.ControlPrint.button1_Click_1(System.Object,System.EventArgs)">
+            <summary>
+            导出报表按钮事件处理程序
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.ControlPrint.button2_Click(System.Object,System.EventArgs)">
+            <summary>
+            打印预览按钮单击事件处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="T:HBMISR.GUI.PrintGUI.C_HBMainMessage">
+            <summary>
+            该容器显示的是后备干部简要情况登记表
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.C_HBMainMessage.components">
+            <summary> 
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBMainMessage.Dispose(System.Boolean)">
+            <summary> 
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBMainMessage.InitializeComponent">
+            <summary> 
+            打印后备干部简要情况登记表构造器
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.C_HBMainMessage.idlist">
+            <summary>
+            //记录需要打印的后备干部编号
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.C_HBMainMessage.unit">
+            <summary>
+            //单位名称
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.C_HBMainMessage.unitclass">
+            <summary>
+            //单位类别
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.C_HBMainMessage.qd">
+            <summary>
+            //正副职
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.C_HBMainMessage.uid">
+            <summary>
+            //单位编号
+            </summary>
+            
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBMainMessage.#ctor">
+            <summary>
+            打印后备干部简要情况登记表构造函数
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBMainMessage.C_HBMainMessage_Load(System.Object,System.EventArgs)">
+            <summary>
+            打印后备干部简要情况登记表初始化
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBMainMessage.HBresume(System.String)">
+            <summary>
+            后备干部简历
+            </summary>
+            <param name="cid">后备干部id号</param>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBMainMessage.HBrewardsAndpunishment(System.String)">
+            <summary>
+            后备干部的奖惩情况
+            </summary>
+            <param name="cid">后备干部id号</param>
+            <returns>奖惩情况</returns>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBMainMessage.HByearcheck(System.String)">
+            <summary>
+            后备干部年度考核
+            </summary>
+            <param name="cid"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBMainMessage.todate(System.String)">
+            <summary>
+            将****年**月改为****.**
+            </summary>
+            <param name="date"></param>
+            <returns></returns>
+        </member>
+        <member name="P:HBMISR.GUI.PrintGUI.C_HBMainMessage.Unitclass">
+            <summary>
+            //单位类别
+            </summary>
+        </member>
+        <member name="P:HBMISR.GUI.PrintGUI.C_HBMainMessage.Qd">
+            <summary>
+            //正副职
+            </summary>
+        </member>
+        <member name="T:HBMISR.GUI.PrintGUI.C_HBData">
+            <summary>
+            该容器用于打印后备干部的考察材料
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.C_HBData.idlist">
+            <summary>
+            //记录需要打印的后备干部编号
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBData.#ctor">
+            <summary>
+            打印后备干部考察材料初始化
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBData.C_HBData_Load(System.Object,System.EventArgs)">
+            <summary>
+            打印后备干部考察材料初始化
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:HBMISR.GUI.PrintGUI.C_HBData.components">
+            <summary> 
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBData.Dispose(System.Boolean)">
+            <summary> 
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:HBMISR.GUI.PrintGUI.C_HBData.InitializeComponent">
+            <summary> 
+            打印后备干部考察材料构造器
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmChangePassWord.cn">
+            <summary>
+            修改密码的窗体
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmChangePassWord.reUnit">
+            <summary>
+            主界面中显示单位信息
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmChangePassWord.#ctor">
+            <summary>
+            修改密码的构造函数
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmChangePassWord.button1_Click(System.Object,System.EventArgs)">
+            <summary>
+            修改密码的确定键
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmChangePassWord.button2_Click(System.Object,System.EventArgs)">
+            <summary>
+            退出修改密码界面
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmChangePassWord.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmChangePassWord.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmChangePassWord.InitializeComponent">
+            <summary>
+            修改密码的构造器
+            </summary>
+        </member>
+        <member name="T:HBMISR.GUI.OtherGUI.FrmAge">
+            <summary>
+            自定义年龄段窗体
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmAge.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmAge.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmAge.InitializeComponent">
+            <summary>
+            自定义年龄段构造器
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmAge.ci">
+            <summary>
+            记录ControlMain类型的实例
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmAge.Beginstr">
+            <summary>
+            存放初始年龄
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmAge.Endstr">
+            <summary>
+            存放结束年龄
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmAge.Middlestr">
+            <summary>
+            中间变量
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmAge.sum">
+            <summary>
+            总人数
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.OtherGUI.FrmAge.qd">
+            <summary>
+            存储正副职和所有人员
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmAge.#ctor">
+            <summary>
+            自定义年龄段构造函数
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmAge.btn_search_Click(System.Object,System.EventArgs)">
+            <summary>
+            自定义年龄段搜索按钮的事件监听
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmAge.txt_Agebegin_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+            <summary>
+            限制年龄输入为数字
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmAge.txt_Ageend_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+            <summary>
+            限制年龄输入为数字
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmAge.search(System.Windows.Forms.Label[],System.Int32)">
+            <summary>
+            折半查找年龄
+            </summary>
+            <param name="a"></param>
+            <param name="age"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmAge.rb0_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            正副职变化时的事件监听
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmAge.rb1_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            正副职变化时的事件监听
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmAge.rb_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            正副职变化时的事件监听
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.OtherGUI.FrmAge.AgeForm_Load(System.Object,System.EventArgs)">
+            <summary>
+            自定义年龄段初始化
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="T:HBMISR.GUI.NoteGUI.FrmSituationRegist">
+            <summary>
+            简要情况登记表
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmSituationRegist.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.InitializeComponent">
+            <summary>
+            简要情况登记表构造器
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmSituationRegist.image">
+            <summary>
+            用于存储照片的二进制信息
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmSituationRegist.change">
+            <summary>
+            加载时change为false，加载完成后置为true。
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmSituationRegist.remarkchange">
+            <summary>
+            标记修改，修改为true，
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmSituationRegist.ci">
+            <summary>
+            记录ControlMain类型的实例
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmSituationRegist.listViewCid">
+            <summary>
+            保存被状态的信息
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmSituationRegist.isEditOfR">
+            <summary>
+            标记当前这一条个人简历/家庭成员信息是新增的还是修改的
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmSituationRegist.isEditOfF">
+            <summary>
+            标记当前这一条个人简历/家庭成员信息是新增的还是修改的
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmSituationRegist.isEditOfA">
+            <summary>
+            标记当前这一条个人简历/家庭成员信息是新增的还是修改的
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmSituationRegist.rid">
+            <summary>
+            标记当前修改的个人简历的ID/家庭成员
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmSituationRegist.fid">
+            <summary>
+            标记当前修改的个人简历的ID/家庭成员
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmSituationRegist.aid">
+            <summary>
+            标记当前修改的个人简历的ID/家庭成员
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmSituationRegist.list">
+            <summary>
+            宣布取消资格的人放入其中，等窗口关闭时对这些人进行删除处理
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.#ctor">
+            <summary>
+            简要情况登记表构造函数
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.PeopleNameSheet_Load(System.Object,System.EventArgs)">
+            <summary>
+            简要情况登记表初始化
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.LoadInfo(System.String)">
+            <summary>
+            读出id为cid的人员的信息
+            </summary>
+            <param name="cid">后备干部id号</param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.ClearWindow">
+            <summary>
+            清空窗口
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.button_sure_Click(System.Object,System.EventArgs)">
+            <summary>
+            保存按钮的点击事件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.SaveCurrent(System.String)">
+            <summary>
+            保存方法
+            </summary>
+            <param name="cid"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.JudgeType(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+            <summary>
+            限制输入只能为数字
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.dataGridView1_CellMouseMove(System.Object,System.Windows.Forms.DataGridViewCellMouseEventArgs)">
+            <summary>
+            符合拖拽的条件时出发拖拽操作
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.dataGridView1_DragDrop(System.Object,System.Windows.Forms.DragEventArgs)">
+            <summary>
+            拖放完成时发生
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.GetRowFromPoint(System.Windows.Forms.DataGridView,System.Int32,System.Int32)">
+            <summary>
+            判断是不是在窗体内部
+            </summary>
+            <param name="dataGridView1">窗体</param>
+            <param name="x">x坐标</param>
+            <param name="y">y坐标</param>
+            <returns>0或-1</returns>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.dataGridView1_CellMouseDown(System.Object,System.Windows.Forms.DataGridViewCellMouseEventArgs)">
+            <summary>
+            选取鼠标所在的行号并赋值给selectionIdx
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.dataGridView1_SelectionChanged(System.Object,System.EventArgs)">
+            <summary>
+            鼠标选择变化
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.dataGridView1_DragEnter(System.Object,System.Windows.Forms.DragEventArgs)">
+            <summary>
+            鼠标拖动到某处时的效果
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.button_image_Click(System.Object,System.EventArgs)">
+            <summary>
+            选择图片
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.button_cancel_Click(System.Object,System.EventArgs)">
+            <summary>
+            取消
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.fSure_Click(System.Object,System.EventArgs)">
+            <summary>
+            家庭成员及重要社会关系确定
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.TSMI_EditFamily_Click(System.Object,System.EventArgs)">
+            <summary>
+            修改家庭成员及其重要社会关系
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.aSure_Click(System.Object,System.EventArgs)">
+            <summary>
+            奖惩情况确定
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.hideC">
+            <summary>
+            手动录入称谓的文本框清空并隐藏
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.showC">
+            <summary>
+            手动录入称谓的文本框清空并显示
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.button3_Click(System.Object,System.EventArgs)">
+            <summary>
+            个人简历清空
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.aClear_Click(System.Object,System.EventArgs)">
+            <summary>
+             奖惩情况清空
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.fClear_Click(System.Object,System.EventArgs)">
+            <summary>
+            家庭成员及重要社会关系清空
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.comboBox_first_year_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            考核第一年输入
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.comboBox_firstYear_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            第一年考核选择
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.textBox_third_year_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            考核第三年输入
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.textBox_age_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+            <summary>
+            限制年龄只能为数字
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.fage_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+            <summary>
+            限制家庭成员年龄只能是数字
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.comboBox_first_year_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+            <summary>
+            限制考核第一年只能是数字
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.PeopleNameSheet_FormClosing(System.Object,System.Windows.Forms.FormClosingEventArgs)">
+            <summary>
+            窗口关闭时删除被标记取消资格的人
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.fBirthday_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            出生年月值改变的事件的处理，判断输入时间的合理性，并计算年龄
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.dateTimePicker_StartTime_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            简历中的开始时间值改变的事件处理，对简历中开始时间的合理性进行检测
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.dateTimePicker_EndTime_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            简历中的结束时间值改变的事件处理，对简历中结束时间的合理性进行检测
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.readShowTable(System.String)">
+            <summary>
+            读取人员的相关信息
+            </summary>
+            <param name="cid"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.button_Sure_Resume_Click(System.Object,System.EventArgs)">
+            <summary>
+            点击个人简历中确定按钮
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.TSMI_DeleteResume_Click(System.Object,System.EventArgs)">
+            <summary>
+            右击快捷键中删除事件的处理，删除一条个人简历
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.TSMI_EditResume_Click(System.Object,System.EventArgs)">
+            <summary>
+            右击快捷键中修改事件的处理，修改一条个人简历
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.listView_Vital_MouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            listView_Vital鼠标松开事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.TSMI_DeleteAward_Click(System.Object,System.EventArgs)">
+            <summary>
+            listView_Award右击删除事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.TSMI_EditAward_Click(System.Object,System.EventArgs)">
+            <summary>
+            listView_Award右击修改事件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.listView_Award_MouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            listView_Award鼠标松开事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.TSMI_DeleteFamily_Click(System.Object,System.EventArgs)">
+            <summary>
+            listView_Relation右击删除事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.listView_Relation_MouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            listView_Relation鼠标松开事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.listView_Vital_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            listView_Vital选中项改变的事件处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.listView_Award_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            listView_Award选中项改变的事件处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.listView_Relation_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            listView_Relation选中项改变的事件处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.textBox_BirthPlace_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框信息改变事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.comboBox_healthy_state_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            选中的下拉选项改变的事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.textBox_speciality_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框信息改变事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.textBox_remark_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框信息改变事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.result1_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            选中的下拉选项改变的事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.result2_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            选中的下拉选项改变的事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.result3_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            选中的下拉选项改变的事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.fCall_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            选中的下拉选项改变的事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.fName_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框信息改变事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.aClass_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            选中的下拉选项改变的事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.aDepartment_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框信息改变事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.aAwardTime_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            限制奖惩时间
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.listView_Vital_ItemDrag(System.Object,System.Windows.Forms.ItemDragEventArgs)">
+            <summary>
+            当拖动某项时
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.listView_Vital_DragEnter(System.Object,System.Windows.Forms.DragEventArgs)">
+            <summary>
+            用鼠标拖动某项至该控件的区域时
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.listView_Vital_DragOver(System.Object,System.Windows.Forms.DragEventArgs)">
+            <summary>
+            拖动时拖着某项置于某行上方时
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmSituationRegist.listView_Vital_DragDrop(System.Object,System.Windows.Forms.DragEventArgs)">
+            <summary>
+            拖动结束
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="T:HBMISR.GUI.NoteGUI.FrmNameSheet">
+            <summary>
+            初步人选名册
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmNameSheet.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmNameSheet.change">
+            <summary>
+            标记是否修改，值为true时表示修改
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmNameSheet.controlMain">
+            <summary>
+            记录ControlMain类型的实例
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmNameSheet.isModify">
+            <summary>
+            标记是修改人员还是新录入人员，如果是修改值为true，否则值为false；
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmNameSheet.cid">
+            <summary>
+            记录人员cid
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.#ctor">
+            <summary>
+            初步人选名册构造函数
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.SetGrade">
+            <summary>
+            //给级别下拉列表设置级别
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.FrmNameSheet_Load(System.Object,System.EventArgs)">
+            <summary>
+            初步人选名册初始化
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.ShowInfo">
+            <summary>
+            修改时  显示后备干部原有信息
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.DefaultSet">
+            <summary>
+            默认普通增加时的事件监听
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.Complete_Butoon_Click(System.Object,System.EventArgs)">
+            <summary>
+            获取各个文本框中的内容,将其导入数据库//
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.Save">
+            <summary>
+             保存初步人选名册的信息
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.Clear_Button_Click(System.Object,System.EventArgs)">
+            <summary>
+            清除录入的信息的事件监听
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.Modify">
+            <summary>
+            修改原有的一条信息
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.button1_Click(System.Object,System.EventArgs)">
+            <summary>
+            培训措施按钮的点击事件监听
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.PartyTime_MouseLeave(System.Object,System.EventArgs)">
+            <summary>
+            入党时间  当失去焦点时候对日期的检查
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.JobTime_MouseLeave(System.Object,System.EventArgs)">
+            <summary>
+             参加工作 当失去焦点的时候对日期的检查
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.partyClass_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            如果是群众 入党时间不让填
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.identity_Leave(System.Object,System.EventArgs)">
+            <summary>
+            身份证号框失去焦点时对身份证的检查
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.CheckID">
+            <summary>
+            检查身份证号
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.SpecialityPosition_TextBox_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            专业职称级别的选项发生变化时的事件监听
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.BrithdayTime_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            检查出生日期的合法性
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.systemdate_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            限制列入后备的年份
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.Name_TextBox_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框中信息改变事件的处理，标记信息改变
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.Nation_TextBox_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框中信息改变事件的处理，标记信息改变
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.rdbMan_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框中信息改变事件的处理，标记信息改变
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.HomeTown_TextBox_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框中信息改变事件的处理，标记信息改变
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.identity_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框中信息改变事件的处理，标记信息改变
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.KnowField_TextBox_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框中信息改变事件的处理，标记信息改变
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.SpecialityPosition_Degree_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框中信息改变事件的处理，标记信息改变
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.MainPosition_TextBox_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框中信息改变事件的处理，标记信息改变
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.grade_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            下拉列表中的选中项改变事件的处理。
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.PartyTime_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            事件限制
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.Union_TextBox_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框中信息改变事件的处理，标记信息改变
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.Position_TexBox_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框中信息改变事件的处理，标记信息改变
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.JobTime_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            工作时间限制
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.TrainDirection_TextBox_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框中信息改变事件的处理，标记信息改变
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.TrainMessure_TextBox_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框中信息改变事件的处理，标记信息改变
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.PublicSelect_checkBox_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框中信息改变事件的处理，标记信息改变
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.checkBox_promote_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            选中状态改变标记
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.isTwoYear_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            选中状态改变标记
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.TYGE_checkBox_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            选中状态改变标记
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.isGuide_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            选中状态改变标记
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.FullEducation_ComboBox_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            全日制学历下拉列表中的选中项改变事件的处理，标记修改
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.FullDegree_ComboBox_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            全日制学位下拉列表中的选中项改变事件的处理，标记修改
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.FullSpeciality_TextBox_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框中信息改变事件的处理，标记信息改变
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.FullSchool_TextBox_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框中信息改变事件的处理，标记信息改变
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.OnEducation_ComboBox_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            下拉列表中的选中项改变事件的处理。
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.OnDegree_ComboBox_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            在职学位下拉列表中的选中项改变事件的处理，标记修改
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.OnSpeciality_TextBox_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框中信息改变事件的处理，标记信息改变
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.OnGraduateSchool_TextBox_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框中信息改变事件的处理，标记信息改变
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.identity_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+            <summary>
+            身份证号码限制
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.FrmNameSheet_FormClosing(System.Object,System.Windows.Forms.FormClosingEventArgs)">
+            <summary>
+            窗体关闭时事件的处理，当有信息改变时，提示是否保存。
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmNameSheet.SaveAll">
+            <summary>
+            保存成功返回true;
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:HBMISR.Service.TMethod">
+            <summary>
+            系统设置
+            功能：
+            设定报告事项、报告内容
+            </summary>
+        </member>
+        <member name="T:HBMISR.Service.ListViewDel">
+            <summary>
+            属性类
+            功能：
+            1、配合的删除、恢复后备干部功能使用，存储cid和删除的顺序
+            </summary>
+        </member>
+        <member name="T:HBMISR.Service.Content1">
+            <summary>
+            属性类
+            功能：
+            1、配合重大报告事项的数据操作，对应数据表TB_GreatContent
+            </summary>
+        </member>
+        <member name="T:HBMISR.print_class.InformationPrint">
+            <summary>
+            导出Word类，功能：导出信息采集表
+            </summary>
+        </member>
+        <member name="M:HBMISR.print_class.InformationPrint.exportword(System.Collections.ArrayList)">
+            <summary>
+            导出word的方法
+            </summary>
+            <param name="idlist">导出后备干部的id号集合</param>
+        </member>
+        <member name="P:HBMISR.Service.ClassFamily.Call">
+            <summary>
+            称呼
+            </summary>
+        </member>
+        <member name="P:HBMISR.Service.ClassFamily.Name">
+            <summary>
+            姓名
+            </summary>
+        </member>
+        <member name="P:HBMISR.Service.ClassFamily.Age">
+            <summary>
+            年龄
+            </summary>
+        </member>
+        <member name="P:HBMISR.Service.ClassFamily.Birthday">
+            <summary>
+            出生年月
+            </summary>
+        </member>
+        <member name="P:HBMISR.Service.ClassFamily.Country">
+            <summary>
+            国籍
+            </summary>
+        </member>
+        <member name="P:HBMISR.Service.ClassFamily.PartyClass">
+            <summary>
+            党派
+            </summary>
+        </member>
+        <member name="P:HBMISR.Service.ClassFamily.Nation">
+            <summary>
+            民族
+            </summary>
+        </member>
+        <member name="P:HBMISR.Service.ClassFamily.WorkPostion">
+            <summary>
+            工作单位及职务
+            </summary>
+        </member>
+        <member name="P:HBMISR.Service.ClassFamily.Remark">
+            <summary>
+            备注
+            </summary>
+        </member>
+        <member name="M:HBMISR.Service.Insert_Serve.Delete(HBMISR.Service.WAbroad)">
+            <summary>
+            删除海外工作的一条记录
+            </summary>
+            <param name="wAbroad">WAbrod类对象</param>
+        </member>
+        <member name="M:HBMISR.Service.Insert_Serve.Delete(HBMISR.Service.IContent)">
+            <summary>
+            删除报告事项
+            </summary>
+            <param name="iContent">IContent类对象</param>
+        </member>
+        <member name="M:HBMISR.Service.Insert_Serve.Delete(HBMISR.Service.Train)">
+            <summary>
+            删除培养措施
+            </summary>
+            <param name="train">Train类对象</param>
+        </member>
+        <member name="T:HBMISR.GUI.NoteGUI.FrmInformationGathering">
+            <summary>
+            信息采集表
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmInformationGathering.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.InitializeComponent">
+            <summary>
+            信息采集表构造器
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmInformationGathering.idStudy">
+            <summary>
+            保存海外学习表中的id字段
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmInformationGathering.idWork">
+            <summary>
+            保存海外工作表中的id字段
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmInformationGathering.idMatter">
+            <summary>
+            保存重大事项信息表中的id字段
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmInformationGathering.idTrain">
+            <summary>
+            保存参加培训和实践锻炼情况表中的id字段
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmInformationGathering.idMethord">
+            <summary>
+            保存培养锻炼措施需求表中的id字段
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmInformationGathering.idLanguage">
+            <summary>
+            保存熟悉外语语种表中的id字
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmInformationGathering.listViewCid">
+            <summary>
+            记录cid
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmInformationGathering.isEditOfT">
+            <summary>
+            标记当前这一条培训锻炼情况信息是新增的还是修改的
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmInformationGathering.tid">
+            <summary>
+            标记当前修改的培训锻炼情况信息的ID
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.NoteGUI.FrmInformationGathering.three">
+            <summary>
+            存储培养措施中的选中序号
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.#ctor">
+            <summary>
+            信息采集表构造函数
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.InformationGathering_Load(System.Object,System.EventArgs)">
+            <summary>
+            信息采集表初始化
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.LoadInfo(System.String)">
+            <summary>
+            显示信息
+            </summary>
+            <param name="cid"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.SaveInfo(System.String)">
+            <summary>
+            保存信息
+            </summary>
+            <param name="cid"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.IsSaveLanguage">
+            <summary>
+            检查信息录入是不是完整
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.clearWindow">
+            <summary>
+            清空信息采集表
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.clearArray">
+            <summary>
+            清空临时数据数组
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.level11_Paint(System.Object,System.EventArgs)">
+            <summary>
+            在panel中打钩
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.level12_Paint(System.Object,System.EventArgs)">
+            <summary>
+            在panel中打钩
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.level13_Paint(System.Object,System.EventArgs)">
+            <summary>
+            在panel中打钩
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.level14_Paint(System.Object,System.EventArgs)">
+            <summary>
+            在panel中打钩
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.level21_Paint(System.Object,System.EventArgs)">
+            <summary>
+            在panel中打钩
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.level22_Paint(System.Object,System.EventArgs)">
+            <summary>
+            在panel中打钩
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.level23_Paint(System.Object,System.EventArgs)">
+            <summary>
+            在panel中打钩
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.level24_Paint(System.Object,System.EventArgs)">
+            <summary>
+            在panel中打钩
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.level31_Paint(System.Object,System.EventArgs)">
+            <summary>
+            在panel中打钩
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.level32_Paint(System.Object,System.EventArgs)">
+            <summary>
+            在panel中打钩
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.level33_Paint(System.Object,System.EventArgs)">
+            <summary>
+            在panel中打钩
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.level34_Paint(System.Object,System.EventArgs)">
+            <summary>
+            在panel中打钩
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.level41_Paint(System.Object,System.EventArgs)">
+            <summary>
+            在panel中打钩
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.level42_Paint(System.Object,System.EventArgs)">
+            <summary>
+            在panel中打钩
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.level43_Paint(System.Object,System.EventArgs)">
+            <summary>
+            在panel中打钩
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.level44_Paint(System.Object,System.EventArgs)">
+            <summary>
+            在panel中打钩
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.level51_Paint(System.Object,System.EventArgs)">
+            <summary>
+            在panel中打钩
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.level52_Paint(System.Object,System.EventArgs)">
+            <summary>
+            在panel中打钩
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.level53_Paint(System.Object,System.EventArgs)">
+            <summary>
+            在panel中打钩
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.level54_Paint(System.Object,System.EventArgs)">
+            <summary>
+            在panel中打钩
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.button_Save_Click(System.Object,System.EventArgs)">
+            <summary>
+            保存按钮的事件监听
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.explain1_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            培养锻炼措施需求中点击复选框产生的事件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.explain2_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            培养锻炼措施需求中点击复选框产生的事件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.explain3_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            培养锻炼措施需求中点击复选框产生的事件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.explain4_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            培养锻炼措施需求中点击复选框产生的事件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.explain5_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            培养锻炼措施需求中点击复选框产生的事件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.explain6_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            培养锻炼措施需求中点击复选框产生的事件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.explain7_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            培养锻炼措施需求中点击复选框产生的事件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.explain8_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            培养锻炼措施需求中点击复选框产生的事件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.explain9_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            培养锻炼措施需求中点击复选框产生的事件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.explain10_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            培养锻炼措施需求中点击复选框产生的事件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.explain11_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            培养锻炼措施需求中点击复选框产生的事件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.explain12_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            培养锻炼措施需求中点击复选框产生的事件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.explain13_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            培养锻炼措施需求中点击复选框产生的事件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.explain14_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            检查第十四项是不是点中 
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.JudgeThree">
+            <summary>
+             判断选项有没有超过三个
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.CancelLast">
+            <summary>
+            消去培养措施选中的第四项
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.JudgeNote14IsCheck">
+            <summary>
+            当主界面切换时调用的函数，改变培养措施的第十四项的编辑状态
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.Add_Click(System.Object,System.EventArgs)">
+            <summary>
+            增加一条信息记录
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.GetRowFromPoint(System.Windows.Forms.DataGridView,System.Int32,System.Int32)">
+            <summary>
+             获取鼠标点击焦点
+            </summary>
+            <param name="dataGridView1"></param>
+            <param name="x"></param>
+            <param name="y"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.comMatter_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            报告事项选择变化时
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.foreignKind11_MouseClick(System.Object,System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            熟悉外语语种变化时
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.foreignKind22_MouseClick(System.Object,System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            熟悉外语语种变化时
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.foreignKind33_MouseClick(System.Object,System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            熟悉外语语种变化时
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.foreignKind44_MouseClick(System.Object,System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            熟悉外语语种变化时
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.foreignKind55_MouseClick(System.Object,System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            熟悉外语语种变化时
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.dtpEndTime_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            限制培训结束时间
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.dtpStartTime_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            限制培训开始时间
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.endStudy1_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            限制第一个海外学习结束时间
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.beginStudy1_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            限制第一个海外学习开始时间
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.beginStudy2_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            限制第二个海外学习开始时间
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.endStudy2_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            限制第二个海外学习结束时间
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.beginStudy3_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            限制第三个海外学习开始时间
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.endStudy3_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            限制第一个海外学习结束时间
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.beginWork1_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            限制第一个开始工作时间
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.endWork1_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            限制第一个结束工作时间
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.beginWork2_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            限制第二个开始工作时间
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.endWork2_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            限制第二个结束工作时间
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.beginWork3_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            限制第三个开始工作时间
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.endWork3_ValueChanged(System.Object,System.EventArgs)">
+            <summary>
+            限制第三个结束工作时间
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.TSMI_DeleteTrainExercise_Click(System.Object,System.EventArgs)">
+            <summary>
+            右键删除培训措施
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.TSMI_EditTrainExercise_Click(System.Object,System.EventArgs)">
+            <summary>
+            右键修改培训措施
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.listView_TrainExercise_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            培养措施中，对选中项改变的事件的处理，listView_TrainExercise有选中项时，鼠标可对其进行点击，无选中项时，鼠标不可对其点击
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.listView_TrainExercise_MouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            listView_TrainExercise上鼠标松开的事件处理，判断是否有选中的项，如果没有第一条设置为选中。
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.degree3_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框信息改变事件的处理，标记信息改变
+            </summary>
+            <param name="sender">degree3</param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.txtReporContent_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            文本框信息改变事件的处理，标记信息改变
+            </summary>
+            <param name="sender">txtReporContent</param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.note14_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            注明文本框事件的处理，标记信息改变
+            </summary>
+            <param name="sender">note14</param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.NoteGUI.FrmInformationGathering.FrmInformationGathering_FormClosing(System.Object,System.Windows.Forms.FormClosingEventArgs)">
+            <summary>
+            窗体关闭时事件的处理，当有信息改变时，提示是否保存。
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="T:HBMISR.GUI.AnalyzeGUI.FrmSearchForm">
+            <summary>
+            窗体类，高级级查询
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.AnalyzeGUI.FrmSearchForm.ini">
+            <summary>
+            读取ini文件
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.AnalyzeGUI.FrmSearchForm.version">
+            <summary>
+            保存版本号
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.AnalyzeGUI.FrmSearchForm.dt2">
+            <summary>
+            保存级别
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.AnalyzeGUI.FrmSearchForm.Beginstr">
+            <summary>
+            存放初始年龄
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.AnalyzeGUI.FrmSearchForm.Endstr">
+            <summary>
+            存放结束年龄
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.AnalyzeGUI.FrmSearchForm.Middlestr">
+            <summary>
+            中间变量
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.AnalyzeGUI.FrmSearchForm.arry">
+            <summary>
+            存储查询数据编号
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.AnalyzeGUI.FrmSearchForm.a2">
+            <summary>
+            读取总表
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.AnalyzeGUI.FrmSearchForm.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.AnalyzeGUI.FrmSearchForm.SearchForm_Load(System.Object,System.EventArgs)">
+            <summary>
+            窗体加载事件的处理
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.AnalyzeGUI.FrmSearchForm.Search_Button_Click(System.Object,System.EventArgs)">
+            <summary>
+            查询按钮的监听
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.AnalyzeGUI.FrmSearchForm.Age_ComboBox_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            是否显示自定义年龄对话框
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.AnalyzeGUI.FrmSearchForm.cancel_Click(System.Object,System.EventArgs)">
+            <summary>
+            清空筛选条件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.AnalyzeGUI.FrmSearchForm.AllSelect_Click(System.Object,System.EventArgs)">
+            <summary>
+            全选按钮
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.AnalyzeGUI.FrmSearchForm.OppositeSelect_Click(System.Object,System.EventArgs)">
+            <summary>
+            反选按钮
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.AnalyzeGUI.FrmSearchForm.button1_Click(System.Object,System.EventArgs)">
+            <summary>
+            高级分析面板中的导出数据
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.AnalyzeGUI.FrmSearchForm.getSelectID">
+            <summary>
+            得到选中的后备干部的id
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:HBMISR.GUI.AnalyzeGUI.FrmSearchForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.AnalyzeGUI.FrmSearchForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:HBMISR.GUI.AnalyzeGUI.FrmSearchForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:HBMISR.Service.CommonInfo">
+            <summary>
+            属性类
+            功能：
+            配合初步人选名册的数据操作，对应数据表TB_Commoninfo
+            </summary>
+        </member>
+        <member name="T:HBMISR.Service.Class_HBMessage">
+            <summary>
+            属性类
+            功能：
+            1、该打印类用于与后备干部初步人选名册对应
+            </summary>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.GetConnection(System.String)">
+            <summary>
+            与数据库连接
+            </summary>
+            <param name="datasource">数据库路径</param>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.#ctor(System.String)">
+            <summary>
+            构造方法
+            </summary>
+            <param name="datasource">数据库路径</param>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.OperateData_sql(System.String)">
+            <summary>
+            操作数据库，执行各种SQL语句
+            </summary>
+            <param name="strSql"></param>
+            <returns>返回整型0或1</returns>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.OperateRank_sql(System.String[])">
+            <summary>
+            操作数据库，执行各种SQL语句
+            </summary>
+            <param name="strSql"></param>
+            <returns>返回整型0或1</returns>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.GetOneDataTable_sql(System.String)">
+            <summary>
+            根据SQL语句得到一个DataTable
+            </summary>
+            <param name="sql">sql语句</param>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.IsExitCid(System.String)">
+            <summary>
+            检测cid号是否存在
+            </summary>
+            <param name="cid">cid字符串</param>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.InsertTable(System.String,System.Data.DataTable)">
+            <summary>
+            插入一个DataTable
+            </summary>
+            <param name="sql"></param>
+            <param name="table"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.CreatDB(System.String)">
+            <summary>
+            创建DB文件
+            </summary>
+            <param name="datasource">数据文件存放的路径</param>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.InsertMark(System.String,System.Boolean)">
+            <summary>
+            假删除或者恢复一条记录
+            </summary>
+            <param name="cid">人员的cid</param>
+            <param name="b">bool值，值为true时，删除操作，值为false时，恢复操作</param>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.DeleteMarkedRecord(System.Collections.Generic.List{HBMISR.Service.ListViewDel})">
+            <summary>
+            删除被标记的干部的所有信息
+            </summary>
+            <param name="list">后备干部的id号</param>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.InsertBriefRigist(HBMISR.Service.CommonInfo)">
+            <summary>
+            更新数据库
+            </summary>
+            <param name="commoInfo">简要情况信息</param>
+            <returns>bool值，值为true时，表示操作成功，值为false时表示操作失败</returns>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.InsertBriefRigistThreeYear(HBMISR.Service.CommonInfo)">
+            <summary>
+            更新数据库三年考核
+            </summary>
+            <param name="commoInfo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.DeleteRecord(System.String)">
+            <summary>
+            执行无返回值的sql语句
+            </summary>
+            <param name="sql">sql语句</param>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.Update1(HBMISR.Service.WAbroad)">
+            <summary>
+            更新海外工作表
+            </summary>
+            <param name="wAbroad">属性类的对象，包含了海外工作的所有信息</param>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.Insertpeopleall(HBMISR.Service.InCommonInfo,System.String)">
+            <summary>
+            更新海外工作表
+            </summary>
+            <param name="wAbroad">属性类的对象，包含了海外工作的所有信息</param>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.Insertpeopleall(HBMISR.Service.CommonInfo)">
+            <summary>
+            插入后备人员信息
+            </summary>
+            <param name="commoInfo">CommonInfo类型实例</param>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.InsertNameSheet(HBMISR.Service.CommonInfo)">
+            <summary>
+            录入初步人选名册，插入数据库中
+            </summary>
+            <param name="commoInfo">CommonInfo实例</param>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.UpdateNameSheet(HBMISR.Service.CommonInfo,System.String)">
+            <summary>
+            更新人选名册
+            </summary>
+            <param name="commoInfo">CommonInfo类型实例，新的cid号</param>
+            <param name="newId"></param>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.UpdataTada15(System.String,System.String)">
+            <summary>
+            更新cid
+            </summary>
+            <param name="cidOld">更新前的cid</param>
+            <param name="cidNew">新的cid</param>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.InsertMaterial(System.String,System.String)">
+            <summary>
+            插入考察材料
+            </summary>
+            <param name="cid">人员cid</param>
+            <param name="material">考察材料的内容</param>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.GetRows(System.String)">
+            <summary>
+            根据SQL语句得到行数
+            </summary>
+            <param name="sql"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.InsertCID_Six(System.String)">
+            <summary>
+            插入cid到谈话会议表
+            </summary>
+            <param name="cid"></param>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.UpdateResume(HBMISR.Service.ResumeProperty,System.Int32)">
+            <summary>
+            更新数据库
+            </summary>
+            <param name="rp">更新数据库所需要的属性类实例</param>
+            <param name="n">更新信息的条数</param>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.DeleteResume(System.Int32)">
+            <summary>
+            删除个人简历表里的记录
+            </summary>
+            <param name="n">要删除记录的id号</param>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.deletedb(System.String)">
+            <summary>
+            民主测评表删除之前错误录入的抓党建信息
+            </summary>
+            <param name="id">要删除记录的id号</param>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.InsertResume(HBMISR.Service.ResumeProperty)">
+            <summary>
+            // 向个人简历表添加信息
+            </summary>
+            <param name="Resume">ResumeProperty类对象</param>
+            <returns>int类型</returns>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.resume(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="s">id号</param>
+            <returns>返回DataTable类型</returns>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.UpdatePeopleAll(HBMISR.Service.CommonInfo,System.String)">
+            <summary>
+            更新TB_Commoninfo表
+            </summary>
+            <param name="commoninfo">其中cid为修改前的cid</param>
+            <param name="cid">新的cid</param>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.UpdatePeopleAll(HBMISR.Service.CommonInfo)">
+            <summary>
+            更新TB_Commoninfo,只更新非cid的字段
+            </summary>
+            <param name="commoninfo">Commoninfo类对象</param>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.UpdatePeopleAll(HBMISR.Service.InCommonInfo,System.String)">
+            <summary>
+            更新TB_NMeeting或TB_NDialog
+            </summary>
+            <param name="incommoninfo">Incommoninfo类对象</param>
+            <param name="s">要更新的表</param>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.InsertFamily(HBMISR.Service.ClassFamily)">
+            <summary>
+            插入家庭成员关系
+            </summary>
+            <param name="family">ClassFamily类型的实例</param>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.InsertAward(HBMISR.Service.PunishAward)">
+            <summary>
+            插入奖惩情况
+            </summary>
+            <param name="punishAward">PunishAward类型的实例</param>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.InsertTrainExercise(HBMISR.Service.Train)">
+            <summary>
+            参加培训和实践锻炼情况:TB_TrainExercise
+            </summary>
+            <param name="train">Train类型的实例</param>
+        </member>
+        <member name="M:HBMISR.Data.DataOperation.ModifyUnit(System.String,System.String,System.String)">
+            <summary>
+            修改总表中的信息
+            </summary>
+            <param name="unitName">单位名称</param>
+            <param name="unitClass">单位类别</param>
+            <param name="uid">单位的id号</param>
+        </member>
+        <member name="T:HBMISR.Data.CryptoHelpException">
+            <summary>
+            异常处理类
+            </summary>
+        </member>
+        <member name="T:HBMISR.print_class.PeopleNameSheetPrint">
+            <summary>
+            导出Word类，功能：导出初步人选名册
+            </summary>
+        </member>
+        <member name="M:HBMISR.print_class.PeopleNameSheetPrint.exportword(System.Collections.ArrayList)">
+            <summary>
+            导出初步人选名册
+            </summary>
+            <param name="idlist">传递所选干部的所有id</param>
+        </member>
+        <member name="T:HBMISR.print_class.MatrialPrint">
+            <summary>
+            导出Word文档的类，功能：导出考察材料
+            </summary>
+        </member>
+        <member name="M:HBMISR.print_class.MatrialPrint.exportword(System.Collections.ArrayList)">
+            <summary>
+            导出后备干部考察材料表
+            </summary>
+            <param name="idlist">需要导出后备干部的id号集合</param>
+        </member>
+        <member name="T:HBMISR.Data.MySQLiteConnection">
+            <summary>
+            数据库连接类
+            </summary>
+        </member>
+        <member name="M:HBMISR.Data.MySQLiteConnection.#ctor">
+            <summary>
+            构造有参无参函数，初始化.db文件的路径
+            </summary>
+            <param name="data"></param>
+        </member>
+        <member name="M:HBMISR.Data.MySQLiteConnection.#ctor(System.String)">
+            <summary>
+            获取数据源路径
+            </summary>
+            <param name="datasource">路径</param>
+        </member>
+        <member name="M:HBMISR.Data.MySQLiteConnection.GetSQLiteConnection">
+            <summary>
+            获得指定路径的.db文件的数据源连接
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.Data.MySQLiteConnection.GetSQLiteConnection(System.String)">
+            <summary>
+            与数据源获得连接
+            </summary>
+            <param name="datasource">数据源路径</param>
+            <returns>返回连接</returns>
+        </member>
+        <member name="T:HBMISR.Properties.Resources">
+            <summary>
+              一个强类型的资源类，用于查找本地化的字符串等。
+            </summary>
+        </member>
+        <member name="P:HBMISR.Properties.Resources.ResourceManager">
+            <summary>
+              返回此类使用的缓存的 ResourceManager 实例。
+            </summary>
+        </member>
+        <member name="P:HBMISR.Properties.Resources.Culture">
+            <summary>
+              使用此强类型资源类，为所有资源查找
+              重写当前线程的 CurrentUICulture 属性。
+            </summary>
+        </member>
+        <member name="T:HBMISR.Service.Class_HBData">
+            <summary>
+            属性类
+            功能：
+            1、该类对应后备干部考察材料的打印预览
+            </summary>
+        </member>
+        <member name="T:HBMISR.Service.AlterCid">
+            <summary>
+            属性类
+            功能：
+            1、配合修改cid操作。对应数据表TB_Commoninfo
+            </summary>
+        </member>
+        <member name="T:HBMISR.GUI.MainGUI.ControlSearch">
+            <summary>
+            检索信息条
+            </summary>
+        </member>
+        <member name="F:HBMISR.GUI.MainGUI.ControlSearch.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlSearch.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlSearch.InitializeComponent">
+            <summary> 
+            检索信息条构造器
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlSearch.#ctor">
+            <summary>
+            检索信息条的构造函数
+            </summary>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlSearch.button_Search_Click">
+            <summary>
+            搜索后备干部信息
+            </summary>
+            <returns>后备干部信息</returns>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlSearch.option_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            当搜索选项改变时的事件监听
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:HBMISR.GUI.MainGUI.ControlSearch.Search_Click(System.Object,System.EventArgs)">
+            <summary>
+            搜索按钮的事件监听
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="T:HBMISR.Service.ResumeProperty">
+            <summary>
+            属性类
+            功能：
+            1、配合隔个人简历的数据操作，对应数据表TB_Commoninfo
+            </summary>
+        </member>
+        <member name="T:HBMISR.Data.UnitOperation">
+            <summary>
+            操作单位的类
+            功能：
+            1、检测注册单位是否在冲突，不冲突返回True,冲突返回False
+            2、在插入单位时，检测本地
+            </summary>
+        </member>
+        <member name="M:HBMISR.Data.UnitOperation.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="M:HBMISR.Data.UnitOperation.CheckUnit(System.String)">
+            <summary>
+            判断传递过来的单位名称，是否和TB_UNIT中的单位名称冲突，如果不冲突返回true
+            </summary>
+            <param name="unitName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.Data.UnitOperation.CheckUnit_System(System.String)">
+            <summary>
+            判断传递过来的单位名称，是否和TB_InputInfo中的单位名称冲突，如果不冲突返回true
+            </summary>
+            <param name="unitName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.Data.UnitOperation.insterNewUnit(System.String,System.String,System.String)">
+            <summary>
+            向TB_LocalUnit中插入单位的相关的信息
+            </summary>
+            <param name="unitName">单位名称</param>
+            <param name="registTime">注册时间</param>
+            <param name="unitClass">单位类别</param>
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.Data.UnitOperation.insterNewUnit_Globle(System.String,System.String,System.String)">
+            <summary>
+            向DBHBMSU.db中的TB_UNIT中插入单位名称、单位类别、单位时间
+            </summary>
+            <param name="unitName"></param>
+            <param name="registTime"></param>
+            <param name="unitClass"></param>
+            <returns></returns>
+        </member>
+        <member name="P:HBMISR.Data.UnitOperation.Filepath">
+            <summary>
+            路径
+            </summary>
+        </member>
+        <member name="M:HBMISR.Data.SQLPool.#ctor">
+            <summary> 
+            初始化SQL池 
+            </summary> 
+        </member>
+        <member name="M:HBMISR.Data.SQLPool.Pop">
+            <summary> 
+            从池中取出SQL
+            </summary> 
+            <returns></returns>
+        </member>
+        <member name="M:HBMISR.Data.SQLPool.Push(System.String)">
+            <summary> 
+            增加一个SQL到池中 
+            </summary> 
+            <param name="item"></param> 
+        </member>
+        <member name="M:HBMISR.Data.SQLPool.Clear">
+            <summary>
+            清空SQL池 
+            清空前，返回SQL池中所有SQL语句
+            </summary> 
+        </member>
+        <member name="P:HBMISR.Data.SQLPool.Count">
+            <summary> 
+            获取SQL池数量 
+            </summary> 
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8980CAE7-3D75-4B42-8A2E-A32C567E43F5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HBMISR</RootNamespace>
+    <AssemblyName>HBMISR</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\HBMISR.XML</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Release\HBMISR.XML</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.ShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>ReferenceDill\AxInterop.ShockwaveFlashObjects.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.mscoree">
+      <HintPath>obj\x86\Debug\Interop.mscoree.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Interop.Word, Version=8.3.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>ReferenceDill\Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.60.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>ReferenceDill\System.Data.SQLite.DLL</HintPath>
+    </Reference>
+    <Reference Include="System.Net" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Data\AllPrint.cs" />
+    <Compile Include="Data\Class1.cs" />
+    <Compile Include="Data\DataOperation.cs" />
+    <Compile Include="Data\MySQLiteConnection.cs" />
+    <Compile Include="Data\ReadIni.cs" />
+    <Compile Include="Data\SQLPool .cs" />
+    <Compile Include="Data\SQLPoolManage.cs" />
+    <Compile Include="Data\UnitOperation.cs" />
+    <Compile Include="GUI\AnalyzeGUI\FrmAnalyze.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AnalyzeGUI\FrmAnalyze.designer.cs">
+      <DependentUpon>FrmAnalyze.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\AnalyzeGUI\FrmSearchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AnalyzeGUI\FrmSearchForm.designer.cs">
+      <DependentUpon>FrmSearchForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\MainGUI\ControlHead.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\MainGUI\ControlHead.designer.cs">
+      <DependentUpon>ControlHead.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\MainGUI\ControlMain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\MainGUI\ControlMain.designer.cs">
+      <DependentUpon>ControlMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\MainGUI\ControlNavigation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\MainGUI\ControlNavigation.designer.cs">
+      <DependentUpon>ControlNavigation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\MainGUI\ControlSearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\MainGUI\ControlSearch.Designer.cs">
+      <DependentUpon>ControlSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\MainGUI\FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\MainGUI\FrmMain.designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\NoteGUI\FrmInformationGathering.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\NoteGUI\FrmInformationGathering.designer.cs">
+      <DependentUpon>FrmInformationGathering.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\NoteGUI\FrmMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\NoteGUI\FrmMaterial.designer.cs">
+      <DependentUpon>FrmMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\NoteGUI\FrmMultiChoise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\NoteGUI\FrmMultiChoise.designer.cs">
+      <DependentUpon>FrmMultiChoise.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\NoteGUI\FrmNameSheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\NoteGUI\FrmNameSheet.designer.cs">
+      <DependentUpon>FrmNameSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\NoteGUI\FrmSituationRegist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\NoteGUI\FrmSituationRegist.designer.cs">
+      <DependentUpon>FrmSituationRegist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\OtherGUI\FrmAge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\OtherGUI\FrmAge.designer.cs">
+      <DependentUpon>FrmAge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\OtherGUI\FrmChangePassWord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\OtherGUI\FrmChangePassWord.designer.cs">
+      <DependentUpon>FrmChangePassWord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\OtherGUI\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\OtherGUI\FrmLogin.designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\OtherGUI\FrmModifyUnit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\OtherGUI\FrmModifyUnit.designer.cs">
+      <DependentUpon>FrmModifyUnit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\OtherGUI\FrmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\OtherGUI\FrmRegister.designer.cs">
+      <DependentUpon>FrmRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\OtherGUI\FrmUnit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\OtherGUI\FrmUnit.designer.cs">
+      <DependentUpon>FrmUnit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\OtherGUI\FrmUnitRegist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\OtherGUI\FrmUnitRegist.designer.cs">
+      <DependentUpon>FrmUnitRegist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\PrintGUI\C_HBData.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\PrintGUI\C_HBData.designer.cs">
+      <DependentUpon>C_HBData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\PrintGUI\C_HBMainMessage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\PrintGUI\C_HBMainMessage.designer.cs">
+      <DependentUpon>C_HBMainMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\PrintGUI\C_HBMessage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\PrintGUI\C_HBMessage.designer.cs">
+      <DependentUpon>C_HBMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\PrintGUI\C_HBNameList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\PrintGUI\C_HBNameList.designer.cs">
+      <DependentUpon>C_HBNameList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\PrintGUI\ControlPrint.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\PrintGUI\ControlPrint.designer.cs">
+      <DependentUpon>ControlPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="server\ConvertPinYin.cs" />
+    <Compile Include="server\Insert_Serve.cs" />
+    <Compile Include="Service\AlterCid.cs" />
+    <Compile Include="Service\ArraylistClass.cs" />
+    <Compile Include="Service\BriefRigist.cs" />
+    <Compile Include="Service\ClassFamily.cs" />
+    <Compile Include="Service\Class_HBData.cs" />
+    <Compile Include="Service\Class_HBMainMessage.cs" />
+    <Compile Include="Service\Class_HBMessage.cs" />
+    <Compile Include="Service\Class_HBNameList.cs" />
+    <Compile Include="Service\CommonInfo.cs" />
+    <Compile Include="Service\Content.cs" />
+    <Compile Include="Service\Demand.cs" />
+    <Compile Include="Service\Exercise.cs" />
+    <Compile Include="Service\Family.cs" />
+    <Compile Include="Service\FLanguage.cs" />
+    <Compile Include="Service\Header.cs" />
+    <Compile Include="Service\IContent.cs" />
+    <Compile Include="Service\IdMethord.cs" />
+    <Compile Include="Service\InCommonInfo.cs" />
+    <Compile Include="Service\Language.cs" />
+    <Compile Include="Service\ListViewDel.cs" />
+    <Compile Include="Service\Order.cs" />
+    <Compile Include="Service\PunishAward.cs" />
+    <Compile Include="Service\Resume.cs" />
+    <Compile Include="Service\ResumeProperty.cs" />
+    <Compile Include="Service\SAbroad.cs" />
+    <Compile Include="Service\StudyAbroad.cs" />
+    <Compile Include="Service\TMethod.cs" />
+    <Compile Include="Service\Train.cs" />
+    <Compile Include="Service\Unit.cs" />
+    <Compile Include="Service\WAbroad.cs" />
+    <Compile Include="Service\WorkAbroad.cs" />
+    <Compile Include="print_class\InformationPrint.cs" />
+    <Compile Include="print_class\MatrialPrint.cs" />
+    <Compile Include="print_class\NameSheetPrint.cs" />
+    <Compile Include="print_class\PeopleNameSheetPrint.cs" />
+    <EmbeddedResource Include="GUI\AnalyzeGUI\FrmAnalyze.resx">
+      <DependentUpon>FrmAnalyze.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\AnalyzeGUI\FrmSearchForm.resx">
+      <DependentUpon>FrmSearchForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\MainGUI\ControlHead.resx">
+      <DependentUpon>ControlHead.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\MainGUI\ControlMain.resx">
+      <DependentUpon>ControlMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\MainGUI\ControlNavigation.resx">
+      <DependentUpon>ControlNavigation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\MainGUI\ControlSearch.resx">
+      <DependentUpon>ControlSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\MainGUI\FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\NoteGUI\FrmInformationGathering.resx">
+      <DependentUpon>FrmInformationGathering.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\NoteGUI\FrmMaterial.resx">
+      <DependentUpon>FrmMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\NoteGUI\FrmMultiChoise.resx">
+      <DependentUpon>FrmMultiChoise.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\NoteGUI\FrmNameSheet.resx">
+      <DependentUpon>FrmNameSheet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\NoteGUI\FrmSituationRegist.resx">
+      <DependentUpon>FrmSituationRegist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\OtherGUI\FrmAge.resx">
+      <DependentUpon>FrmAge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\OtherGUI\FrmChangePassWord.resx">
+      <DependentUpon>FrmChangePassWord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\OtherGUI\Frmlogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\OtherGUI\FrmModifyUnit.resx">
+      <DependentUpon>FrmModifyUnit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\OtherGUI\FrmRegister.resx">
+      <DependentUpon>FrmRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\OtherGUI\FrmUnit.resx">
+      <DependentUpon>FrmUnit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\OtherGUI\FrmUnitRegist.resx">
+      <DependentUpon>FrmUnitRegist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\PrintGUI\C_HBData.resx">
+      <DependentUpon>C_HBData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\PrintGUI\C_HBMainMessage.resx">
+      <DependentUpon>C_HBMainMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\PrintGUI\C_HBMessage.resx">
+      <DependentUpon>C_HBMessage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\PrintGUI\C_HBNameList.resx">
+      <DependentUpon>C_HBNameList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\PrintGUI\ControlPrint.resx">
+      <DependentUpon>ControlPrint.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report\HBData.rdlc" />
+    <EmbeddedResource Include="Report\HBMainMessage.rdlc" />
+    <EmbeddedResource Include="Report\HBMessage.rdlc" />
+    <EmbeddedResource Include="Report\HBNameList.rdlc" />
+    <EmbeddedResource Include="Report\HBNameList1.rdlc" />
+    <None Include="App.config" />
+    <None Include="app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\DataSources\HBMISR.Service.Class_HBCompositeAppraise.datasource" />
+    <None Include="Properties\DataSources\HBMISR.Service.Class_HBData.datasource" />
+    <None Include="Properties\DataSources\HBMISR.Service.Class_HBMainMessage.datasource" />
+    <None Include="Properties\DataSources\HBMISR.Service.Class_HBMeetANDtalk.datasource" />
+    <None Include="Properties\DataSources\HBMISR.Service.Class_HBMessage.datasource" />
+    <None Include="Properties\DataSources\HBMISR.Service.Class_HBNameList.datasource" />
+    <None Include="Properties\DataSources\HBMISR.Service.Class_HBopinionANDappraise.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="wordModel\信息采集表.doc" />
+    <None Include="wordModel\简要情况.doc" />
+    <None Include="wordModel\考察材料1.doc" />
+    <None Include="wordModel\花名册.doc" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Picture\choice.png" />
+    <Content Include="Picture\LoginPicture.JPG" />
+    <Content Include="Picture\right.png" />
+    <Content Include="Picture\Age.png" />
+    <Content Include="Picture\AllPeople.jpg" />
+    <Content Include="Picture\BasicAnalyze.png" />
+    <Content Include="Picture\Cancel.png" />
+    <Content Include="Picture\DataAnalyse.png" />
+    <Content Include="Picture\Dialog.jpg" />
+    <Content Include="Picture\FileClose.ico" />
+    <Content Include="Picture\FileImport.ico" />
+    <Content Include="Picture\FileSaveAs.ico" />
+    <Content Include="Picture\Information.png" />
+    <Content Include="Picture\LogginFlash.swf" />
+    <Content Include="Picture\Materia.bmp" />
+    <Content Include="Picture\MoveOut.png" />
+    <Content Include="Picture\MShow.jpg" />
+    <Content Include="Picture\NewCreate.ico" />
+    <Content Include="Picture\Note.png" />
+    <Content Include="Picture\Open.png" />
+    <Content Include="Picture\Opinion.jpg" />
+    <Content Include="Picture\OverallFvaluation.gif" />
+    <Content Include="Picture\p.jpg" />
+    <Content Include="Picture\Promote.png" />
+    <Content Include="Picture\Shoortcut.ico" />
+    <Content Include="Picture\Show.jpg" />
+    <Content Include="Picture\SituationRegiste.gif" />
+    <Content Include="Picture\SystemSet.png" />
+    <Content Include="Picture\talk.jpg" />
+    <Content Include="Picture\Newhead.jpg" />
+    <Content Include="Picture\AllPeoplein.jpg" />
+    <Content Include="Picture\meeting.gif" />
+    <Content Include="Picture\NameSheet.png" />
+    <Content Include="Picture\regist.gif" />
+    <Content Include="Picture\TotalChange.jpg" />
+    <Content Include="Picture\Uninstall.ICO" />
+    <Content Include="Picture\unit.ico" />
+    <Content Include="ReferenceDill\AxInterop.ShockwaveFlashObjects.dll" />
+    <Content Include="ReferenceDill\Interop.ShockwaveFlashObjects.dll" />
+    <Content Include="ReferenceDill\Interop.Word.dll" />
+    <Content Include="ReferenceDill\System.Data.SQLite.DLL" />
+    <None Include="Resources\report.png" />
+    <None Include="Picture\word.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="FlashAccessibility">
+      <Guid>{57A0E746-3863-4D20-A811-950C84F1DB9B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="FlashBrokerLib">
+      <Guid>{FAB3E735-69C7-453B-A446-B6823C6DF1C9}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="ShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

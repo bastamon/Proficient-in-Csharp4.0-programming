@@ -1,0 +1,9 @@
+E:\U盘备份--20130905\2013年暑假C#教材\第7章和第10章(含习题和答案以及实现代码)--第四稿\Chapter 7\Ex7-12\Ex7-12\bin\Debug\Ex7-12.exe
+E:\U盘备份--20130905\2013年暑假C#教材\第7章和第10章(含习题和答案以及实现代码)--第四稿\Chapter 7\Ex7-12\Ex7-12\bin\Debug\Ex7-12.pdb
+E:\U盘备份--20130905\2013年暑假C#教材\第7章和第10章(含习题和答案以及实现代码)--第四稿\Chapter 7\Ex7-12\Ex7-12\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\U盘备份--20130905\2013年暑假C#教材\第7章和第10章(含习题和答案以及实现代码)--第四稿\Chapter 7\Ex7-12\Ex7-12\obj\x86\Debug\Ex7_12.Form1.resources
+E:\U盘备份--20130905\2013年暑假C#教材\第7章和第10章(含习题和答案以及实现代码)--第四稿\Chapter 7\Ex7-12\Ex7-12\obj\x86\Debug\Ex7_12.Properties.Resources.resources
+E:\U盘备份--20130905\2013年暑假C#教材\第7章和第10章(含习题和答案以及实现代码)--第四稿\Chapter 7\Ex7-12\Ex7-12\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\U盘备份--20130905\2013年暑假C#教材\第7章和第10章(含习题和答案以及实现代码)--第四稿\Chapter 7\Ex7-12\Ex7-12\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\U盘备份--20130905\2013年暑假C#教材\第7章和第10章(含习题和答案以及实现代码)--第四稿\Chapter 7\Ex7-12\Ex7-12\obj\x86\Debug\Ex7-12.exe
+E:\U盘备份--20130905\2013年暑假C#教材\第7章和第10章(含习题和答案以及实现代码)--第四稿\Chapter 7\Ex7-12\Ex7-12\obj\x86\Debug\Ex7-12.pdb

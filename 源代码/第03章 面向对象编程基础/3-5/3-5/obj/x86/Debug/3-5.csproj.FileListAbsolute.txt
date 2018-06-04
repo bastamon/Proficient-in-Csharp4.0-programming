@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Csharp\例程\3-5\3-5\bin\Debug\3-5.exe
+C:\Users\Administrator\Desktop\Csharp\例程\3-5\3-5\bin\Debug\3-5.pdb
+C:\Users\Administrator\Desktop\Csharp\例程\3-5\3-5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Csharp\例程\3-5\3-5\obj\x86\Debug\3-5.exe
+C:\Users\Administrator\Desktop\Csharp\例程\3-5\3-5\obj\x86\Debug\3-5.pdb
+D:\document\C#\精通C#4.0程序设计放网上\源代码\第03章 面向对象编程基础\3-5\3-5\obj\x86\Debug\3-5.exe
+D:\document\C#\精通C#4.0程序设计放网上\源代码\第03章 面向对象编程基础\3-5\3-5\obj\x86\Debug\3-5.pdb

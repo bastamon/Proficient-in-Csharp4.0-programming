@@ -1,0 +1,5 @@
+E:\教学科研\教学\网络编程基础\第一稿\ExceptionEx5\ExceptionEx5\bin\Debug\ExceptionEx5.exe
+E:\教学科研\教学\网络编程基础\第一稿\ExceptionEx5\ExceptionEx5\bin\Debug\ExceptionEx5.pdb
+E:\教学科研\教学\网络编程基础\第一稿\ExceptionEx5\ExceptionEx5\obj\Debug\ResolveAssemblyReference.cache
+E:\教学科研\教学\网络编程基础\第一稿\ExceptionEx5\ExceptionEx5\obj\Debug\ExceptionEx5.exe
+E:\教学科研\教学\网络编程基础\第一稿\ExceptionEx5\ExceptionEx5\obj\Debug\ExceptionEx5.pdb

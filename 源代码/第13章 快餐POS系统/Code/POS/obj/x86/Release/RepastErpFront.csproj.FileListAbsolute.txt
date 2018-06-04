@@ -1,0 +1,551 @@
+C:\Documents and Settings\Administrator\桌面\erp6\RepastErpFront\bin\Release\RepastErpFront.exe.config
+E:\erp6\RepastErpFront\bin\Release\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\bin\Release\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\bin\Release\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\bin\Release\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\bin\Release\spc.dll
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Beican.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckChit.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckOut.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckSale0.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CKPanel.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Combination.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.FunctionPanel.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.GoodsNumber.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.LargeBills.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Memo.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Number.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.OrderMenu.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.PageControl.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pos_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pro_NO.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Roll.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Shop_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.ShowInfo.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.SinglePageControl.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.TiDan.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.Test.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.View.ChangePassword.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.View.CheckSale.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.View.CombinationForm.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.View.CheckForm.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.View.FunctionSet.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.View.KeyBoard_Form.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.View.Login.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.View.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.View.NumPanel.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.View.Offline.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.View.Online.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.View.ReturnGoods1.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.View.SetPara.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.View.EnterTainLogin.resources
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\erp\RepastErpFront\obj\x86\Release\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\bin\Release\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Release\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\erp（6.16）\RepastErpFront\obj\x86\Release\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\bin\Release\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Release\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (2)\RepastErpFront\obj\x86\Release\RepastErpFront.pdb
+E:\快餐系统1\RepastErpFront\bin\Release\RepastErpFront.exe
+E:\快餐系统1\RepastErpFront\bin\Release\RepastErpFront.exe.config
+E:\erp3\RepastErpFront\bin\Release\RepastErpFront.exe.config
+E:\RepastErp_Front\Code\RepastErpFront\bin\Release\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\sa\RepastErp_Front\Code\RepastErpFront\bin\Release\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\bin\Release\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\bin\Release\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\bin\Release\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\bin\Release\Common.dll
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\bin\Release\spc.dll
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Beican.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckChit.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckOut.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckSale0.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CKPanel.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Combination.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.FunctionPanel.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.GoodsNumber.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.LargeBills.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Memo.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Number.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.OrderMenu.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.PageControl.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pos_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pro_NO.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Roll.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Shop_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.ShowInfo.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.SinglePageControl.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.TiDan.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ChangePassword.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CheckSale.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CombinationForm.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CheckForm.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.FunctionSet.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.KeyBoard_Form.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Login.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.NumPanel.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Offline.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Online.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ProgressForm.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ReturnGoods1.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.SetPara.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.EnterTainLogin.resources
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\erp_last8.5\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.pdb
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\bin\Release\RepastErpFront.exe.config
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.exe
+F:\快餐前台Pos系统（8.28）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.pdb
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\bin\Release\RepastErpFront.exe.config
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\bin\Release\RepastErpFront.exe
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\bin\Release\RepastErpFront.pdb
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\bin\Release\Common.dll
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\bin\Release\spc.dll
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\ResolveAssemblyReference.cache
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Beican.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.BtnPanelProd.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.BtnPanelKind.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Cashier_Tur.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckChit.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckOut.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckSale0.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CKPanel.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Combination.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.FunctionPanel.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.GoodsNumber.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.LargeBills.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Memo.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Number.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.OrderMenu.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.PageControl.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pos_rounds_inquire.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pos_Tur.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pro_NO.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.ReturnOfGoods.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Roll.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Shop_Tur.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.ShowInfo.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.SinglePageControl.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.TiDan.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Properties.Resources.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ChangePassword.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CheckSale.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CombinationForm.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CheckForm.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.FunctionSet.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.KeyBoard_Form.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Login.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.MainForm.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.NumPanel.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Offline.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Online.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ProgressForm.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ReturnGoods1.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.SetPara.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.EnterTainLogin.resources
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\GenerateResource.read.1.tlog
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\GenerateResource.write.1.tlog
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.exe
+F:\快餐前台Pos系统（9.5）\RepastErp_Front\Code\RepastErpFront\obj\x86\Release\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\bin\Release\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\bin\Release\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\bin\Release\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\bin\Release\Common.dll
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\bin\Release\spc.dll
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Beican.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckChit.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckOut.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckSale0.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CKPanel.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Combination.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.FunctionPanel.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.GoodsNumber.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.LargeBills.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Memo.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Number.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.OrderMenu.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.PageControl.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pos_Tur.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pro_NO.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Roll.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Shop_Tur.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.ShowInfo.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.SinglePageControl.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.TiDan.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ChangePassword.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CheckSale.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CombinationForm.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CheckForm.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.FunctionSet.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.KeyBoard_Form.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Login.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.NumPanel.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Offline.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Online.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ProgressForm.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ReturnGoods1.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.SetPara.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.EnterTainLogin.resources
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\快餐系统2012-9-11\快餐系统2012年9月10日\前台POS机系统\Code\RepastErpFront\obj\x86\Release\GenerateResource.write.1.tlog
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\bin\Release\RepastErpFront.exe.config
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\bin\Release\RepastErpFront.exe
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\bin\Release\RepastErpFront.pdb
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\ResolveAssemblyReference.cache
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Beican.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.BtnPanelProd.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.BtnPanelKind.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Cashier_Tur.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckChit.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckOut.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckSale0.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CKPanel.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Combination.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.FunctionPanel.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.GoodsNumber.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.LargeBills.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Memo.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Number.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.OrderMenu.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.PageControl.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pos_rounds_inquire.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pos_Tur.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pro_NO.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.ReturnOfGoods.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Roll.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Shop_Tur.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.ShowInfo.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.SinglePageControl.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.TiDan.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Properties.Resources.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ChangePassword.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CheckSale.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CombinationForm.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CheckForm.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.FunctionSet.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.KeyBoard_Form.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Login.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.MainForm.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.NumPanel.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Offline.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Online.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ProgressForm.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ReturnGoods1.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.SetPara.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.EnterTainLogin.resources
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\GenerateResource.read.1.tlog
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\GenerateResource.write.1.tlog
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.exe
+F:\2012年9月14日165314\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.pdb
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\bin\Release\RepastErpFront.exe.config
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\bin\Release\RepastErpFront.exe
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\bin\Release\RepastErpFront.pdb
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\ResolveAssemblyReference.cache
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Beican.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.BtnPanelProd.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.BtnPanelKind.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Cashier_Tur.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckChit.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckOut.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckSale0.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CKPanel.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Combination.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.FunctionPanel.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.GoodsNumber.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.LargeBills.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Memo.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Number.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.OrderMenu.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.PageControl.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pos_rounds_inquire.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pos_Tur.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pro_NO.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.ReturnOfGoods.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Roll.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Shop_Tur.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.ShowInfo.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.SinglePageControl.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.TiDan.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Properties.Resources.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ChangePassword.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CheckSale.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CombinationForm.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CheckForm.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.FunctionSet.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.KeyBoard_Form.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Login.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.MainForm.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.NumPanel.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Offline.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Online.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ProgressForm.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ReturnGoods1.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.SetPara.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.EnterTainLogin.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\GenerateResource.read.1.tlog
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\GenerateResource.write.1.tlog
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.exe
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS2012917\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.pdb
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\bin\Release\RepastErpFront.exe.config
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\bin\Release\RepastErpFront.exe
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\bin\Release\RepastErpFront.pdb
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\ResolveAssemblyReference.cache
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Beican.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.BtnPanelProd.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.BtnPanelKind.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Cashier_Tur.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckChit.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckOut.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckSale0.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CKPanel.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Combination.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.FunctionPanel.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.GoodsNumber.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.LargeBills.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Memo.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Number.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.OrderMenu.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.PageControl.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pos_rounds_inquire.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pos_Tur.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pro_NO.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.ReturnOfGoods.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Roll.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Shop_Tur.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.ShowInfo.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.SinglePageControl.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.TiDan.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Properties.Resources.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ChangePassword.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CheckSale.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CombinationForm.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CheckForm.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.FunctionSet.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.KeyBoard_Form.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Login.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.MainForm.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.NumPanel.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Offline.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Online.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ProgressForm.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ReturnGoods1.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.SetPara.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.EnterTainLogin.resources
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\GenerateResource.read.1.tlog
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\GenerateResource.write.1.tlog
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.exe
+E:\数据备份2012年9月21日161645重要\ERP快餐系统2012年9月21日162350\2012-9-16 14315\POS20121011\前台POS机系统\Code\RepastErpFront\obj\x86\Release\RepastErpFront.pdb
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\bin\Release\RepastErpFront.exe.config
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\bin\Release\RepastErpFront.exe
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\bin\Release\RepastErpFront.pdb
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Beican.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckChit.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckOut.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckSale0.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CKPanel.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Combination.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.FunctionPanel.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.GoodsNumber.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.LargeBills.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Memo.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Number.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.OrderMenu.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.PageControl.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pos_Tur.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pro_NO.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Roll.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Shop_Tur.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.ShowInfo.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.SinglePageControl.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.TiDan.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.Properties.Resources.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ChangePassword.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CheckSale.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CombinationForm.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CheckForm.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.View.FunctionSet.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.View.KeyBoard_Form.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Login.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.View.MainForm.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.View.NumPanel.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Offline.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Online.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ProgressForm.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ReturnGoods1.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.View.SetPara.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.View.EnterTainLogin.resources
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.exe
+C:\Documents and Settings\马宏飞\桌面\code\RepastErpFront\obj\x86\Release\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\bin\Release\RepastErpFront.exe.config
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\bin\Release\RepastErpFront.exe
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\bin\Release\RepastErpFront.pdb
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Beican.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.BtnPanelProd.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.BtnPanelKind.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Cashier_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckChit.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckOut.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckSale0.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CKPanel.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Combination.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.FunctionPanel.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.GoodsNumber.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.LargeBills.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Memo.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Number.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.OrderMenu.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.PageControl.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pos_rounds_inquire.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pos_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pro_NO.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.ReturnOfGoods.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Roll.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Shop_Tur.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.ShowInfo.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.SinglePageControl.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.TiDan.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ChangePassword.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CheckSale.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CombinationForm.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CheckForm.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.FunctionSet.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.KeyBoard_Form.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Login.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.NumPanel.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Offline.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Online.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ProgressForm.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ReturnGoods1.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.SetPara.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.EnterTainLogin.resources
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\erppos\Code\RepastErpFront\obj\x86\Release\GenerateResource.write.1.tlog
+D:\erpPos\Code\RepastErpFront\bin\Release\RepastErpFront.exe.config
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.exe
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.pdb
+D:\erpPos\Code\RepastErpFront\bin\Release\RepastErpFront.exe
+D:\erpPos\Code\RepastErpFront\bin\Release\RepastErpFront.pdb
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\ResolveAssemblyReference.cache
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Beican.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.BtnPanelProd.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.BtnPanelKind.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Cashier_Tur.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckChit.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckOut.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckSale0.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CKPanel.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Combination.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.FunctionPanel.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.GoodsNumber.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.LargeBills.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Memo.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Number.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.OrderMenu.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.PageControl.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pos_rounds_inquire.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pos_Tur.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pro_NO.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.ReturnOfGoods.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Roll.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Shop_Tur.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.ShowInfo.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.SinglePageControl.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.TiDan.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Properties.Resources.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ChangePassword.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CheckSale.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CombinationForm.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CheckForm.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.FunctionSet.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.KeyBoard_Form.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Login.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.MainForm.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.NumPanel.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Offline.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Online.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ProgressForm.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ReturnGoods1.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.SetPara.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.EnterTainLogin.resources
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\GenerateResource.read.1.tlog
+D:\erpPos\Code\RepastErpFront\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\64380\Code\RepastErpFront\bin\Release\RepastErpFront.exe.config
+C:\Users\Administrator\64380\Code\RepastErpFront\obj\x86\Release\RepastErpFront.exe
+C:\Users\Administrator\64380\Code\RepastErpFront\obj\x86\Release\RepastErpFront.pdb
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.exe
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.pdb
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\ResolveAssemblyReference.cache
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Beican.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.BtnPanelProd.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.BtnPanelKind.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Cashier_Tur.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckOut.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CheckSale0.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.CKPanel.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.FunctionPanel.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.GoodsNumber.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Number.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.OrderMenu.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.PageControl.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pos_rounds_inquire.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Pos_Tur.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Roll.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.Shop_Tur.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.ShowInfo.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Controls.SinglePageControl.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.Properties.Resources.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ChangePassword.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CheckSale.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.CheckForm.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.KeyBoard_Form.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Login.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.MainForm.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Offline.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.Online.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\RepastErpFront.View.ProgressForm.resources
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\GenerateResource.read.1.tlog
+F:\yp\C#书\Code\RepastErpFront\obj\x86\Release\GenerateResource.write.1.tlog
+F:\yp\C#书\Code\RepastErpFront\bin\Release\RepastErpFront.exe
+F:\yp\C#书\Code\RepastErpFront\bin\Release\RepastErpFront.pdb

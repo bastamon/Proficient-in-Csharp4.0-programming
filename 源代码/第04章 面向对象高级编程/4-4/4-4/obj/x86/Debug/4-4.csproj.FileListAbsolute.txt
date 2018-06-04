@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Csharp\例程\4-4\4-4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Csharp\例程\4-4\4-4\bin\Debug\4-4.exe
+C:\Users\Administrator\Desktop\Csharp\例程\4-4\4-4\bin\Debug\4-4.pdb
+C:\Users\Administrator\Desktop\Csharp\例程\4-4\4-4\obj\x86\Debug\4-4.exe
+C:\Users\Administrator\Desktop\Csharp\例程\4-4\4-4\obj\x86\Debug\4-4.pdb
+D:\document\C#\精通C#4.0程序设计放网上\源代码\第04章 面向对象高级编程\4-4\4-4\obj\x86\Debug\4-4.exe
+D:\document\C#\精通C#4.0程序设计放网上\源代码\第04章 面向对象高级编程\4-4\4-4\obj\x86\Debug\4-4.pdb

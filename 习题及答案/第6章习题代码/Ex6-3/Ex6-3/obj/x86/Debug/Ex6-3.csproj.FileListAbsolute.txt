@@ -1,0 +1,8 @@
+E:\习题\Ex6-3\Ex6-3\bin\Debug\Ex6-3.exe
+E:\习题\Ex6-3\Ex6-3\bin\Debug\Ex6-3.pdb
+E:\习题\Ex6-3\Ex6-3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\习题\Ex6-3\Ex6-3\obj\x86\Debug\Ex6_3.Properties.Resources.resources
+E:\习题\Ex6-3\Ex6-3\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\习题\Ex6-3\Ex6-3\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\习题\Ex6-3\Ex6-3\obj\x86\Debug\Ex6-3.exe
+E:\习题\Ex6-3\Ex6-3\obj\x86\Debug\Ex6-3.pdb

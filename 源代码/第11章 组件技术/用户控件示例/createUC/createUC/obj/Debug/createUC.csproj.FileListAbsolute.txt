@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\C#\第十章\用户控件示例\createUC\createUC\bin\Debug\createUC.dll
+C:\Users\Administrator\Desktop\C#\第十章\用户控件示例\createUC\createUC\bin\Debug\createUC.pdb
+C:\Users\Administrator\Desktop\C#\第十章\用户控件示例\createUC\createUC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\第十章\用户控件示例\createUC\createUC\obj\Debug\createUC.UserControl1.resources
+C:\Users\Administrator\Desktop\C#\第十章\用户控件示例\createUC\createUC\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\C#\第十章\用户控件示例\createUC\createUC\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\C#\第十章\用户控件示例\createUC\createUC\obj\Debug\createUC.dll
+C:\Users\Administrator\Desktop\C#\第十章\用户控件示例\createUC\createUC\obj\Debug\createUC.pdb

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Csharp\例程\4-13\4-13\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Csharp\例程\4-13\4-13\bin\Debug\4-13.exe
+C:\Users\Administrator\Desktop\Csharp\例程\4-13\4-13\bin\Debug\4-13.pdb
+C:\Users\Administrator\Desktop\Csharp\例程\4-13\4-13\obj\x86\Debug\4-13.exe
+C:\Users\Administrator\Desktop\Csharp\例程\4-13\4-13\obj\x86\Debug\4-13.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionEx1", "ExceptionEx1\ExceptionEx1.csproj", "{D009026B-7E20-4450-ABD1-9729DF97197B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D009026B-7E20-4450-ABD1-9729DF97197B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D009026B-7E20-4450-ABD1-9729DF97197B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D009026B-7E20-4450-ABD1-9729DF97197B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D009026B-7E20-4450-ABD1-9729DF97197B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
